@@ -888,6 +888,25 @@ feature abvs {
 
 feature blws {
 
+  sub dvDA   dvmU  by dvDA_mU;
+  sub dvDA   dvmUU by dvDA_mUU;
+  sub dvK_DA dvmU  by dvK_DA_mU;
+  sub dvK_DA dvmUU by dvK_DA_mUU;
+  sub dvG_DA dvmU  by dvG_DA_mU;
+  sub dvG_DA dvmUU by dvG_DA_mUU;
+  sub dvJ_DA dvmU  by dvJ_DA_mU;
+  sub dvJ_DA dvmUU by dvJ_DA_mUU;
+  sub dvN_DA dvmU  by dvN_DA_mU;
+  sub dvN_DA dvmUU by dvN_DA_mUU;
+  sub dvB_DA dvmU  by dvB_DA_mU;
+  sub dvB_DA dvmUU by dvB_DA_mUU;
+  sub dvM_DA dvmU  by dvM_DA_mU;
+  sub dvM_DA dvmUU by dvM_DA_mUU;
+  sub dvL_DA dvmU  by dvL_DA_mU;
+  sub dvL_DA dvmUU by dvL_DA_mUU;
+  sub dvS_DA dvmU  by dvS_DA_mU;
+  sub dvS_DA dvmUU by dvS_DA_mUU;
+
   sub dvRA dvmU  by dvRA_mU;
   sub dvRA dvmUU by dvRA_mUU;
   sub dvHA dvmU  by dvHA_mU;
@@ -999,6 +1018,28 @@ feature blwm {
 # ------------------
 
 feature liga {
+
   sub f i by fi;
   sub f l by fl;
+
+  sub
+    space
+    [
+      dvA
+      dvAA
+      dvO
+      dvAU
+      dvAcandra
+      dvOcandra
+    ]'
+  by
+    [
+      dvA.init
+      dvAA.init
+      dvO.init
+      dvAU.init
+      dvAcandra.init
+      dvOcandra.init
+    ];
+
 } liga;
