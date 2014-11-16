@@ -5,8 +5,6 @@
 
 #KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold
 
-Some Devanagari	SomeDevanagari-Light	Some Devanagari Light	Light	(0)	0
-Some Devanagari	SomeDevanagari-Regular	Some Devanagari	Regular	(210)	0
-Some Devanagari	SomeDevanagari-Medium	Some Devanagari Medium	Medium	(440)	0
-Some Devanagari	SomeDevanagari-SemiBold	Some Devanagari SemiBold	SemiBold	(700)	0
-Some Devanagari	SomeDevanagari-Bold	Some Devanagari Bold	Bold	(1000)	0
+Kalam	Kalam-Light	Kalam Light	Light	(0)	0
+Kalam	Kalam-Regular	Kalam	Regular	(350)	0
+Kalam	Kalam-Bold	Kalam Bold	Bold	(1000)	0

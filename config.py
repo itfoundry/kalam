@@ -1,12 +1,10 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'SomeDevanagari'
+FAMILY_NAME = 'Kalam'
 
 STYLE_NAMES = [
     'Light',
     'Regular',
-    'Medium',
-    'SemiBold',
     'Bold',
 ]
 
