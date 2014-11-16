@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAA.init" format="1">
+  <advance width="1201"/>
+  <outline>
+    <component base="dvmAA" xOffset="924"/>
+    <component base="dvA.init"/>
+  </outline>
+</glyph>

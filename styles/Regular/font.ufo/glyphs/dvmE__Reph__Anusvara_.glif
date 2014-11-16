@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmE_Reph_Anusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-55" y="655" type="move" name="_abvm.e"/>
+    </contour>
+    <component base="dvmE_Reph"/>
+    <component base="dvAnusvara" xScale="0.946564885974" yScale="0.944411757589" xOffset="65" yOffset="3"/>
+  </outline>
+</glyph>

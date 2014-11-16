@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmE_Reph_Anusvara">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="34" y="782" />
+      <point x="22" y="782" />
+      <point x="11" y="768" />
+      <point type="curve" x="11" y="750" />
+      <point x="11" y="730" />
+      <point x="54" y="686" />
+      <point type="curve" x="69" y="686" />
+      <point x="78" y="686" />
+      <point x="82" y="693" />
+      <point type="curve" x="82" y="705" />
+      <point x="82" y="726" />
+      <point x="51" y="782" />
+    </contour>
+    <contour>
+      <point type="curve" x="19" y="897" />
+      <point x="-66" y="897" />
+      <point x="-126" y="854" />
+      <point type="curve" x="-139" y="790" />
+      <point x="-157" y="819" />
+      <point x="-170" y="850" />
+      <point type="curve" x="-170" y="881" />
+      <point x="-170" y="914" />
+      <point x="-235" y="964" />
+      <point type="curve" x="-256" y="964" />
+      <point x="-264" y="964" />
+      <point x="-266" y="959" />
+      <point type="curve" x="-266" y="948" />
+      <point x="-266" y="871" />
+      <point x="-73" y="616" />
+      <point type="curve" x="-25" y="616" />
+      <point x="-16" y="616" />
+      <point x="-11" y="621" />
+      <point type="curve" x="-11" y="629" />
+      <point x="-11" y="643" />
+      <point x="-45" y="675" />
+      <point type="curve" x="-82" y="716" />
+      <point x="-91" y="728" />
+      <point x="-95" y="741" />
+      <point type="curve" x="-95" y="755" />
+      <point x="-95" y="815" />
+      <point x="-44" y="849" />
+      <point type="curve" x="24" y="849" />
+      <point x="103" y="849" />
+      <point x="137" y="791" />
+      <point type="curve" x="154" y="791" />
+      <point x="160" y="791" />
+      <point x="163" y="795" />
+      <point type="curve" x="163" y="806" />
+      <point x="163" y="839" />
+      <point x="99" y="897" />
+    </contour>
+  </outline>
+</glyph>

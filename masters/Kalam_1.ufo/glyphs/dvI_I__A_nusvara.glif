@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvII_Anusvara" format="1">
+  <advance width="562"/>
+  <outline>
+    <component base="dvII"/>
+    <component base="dvAnusvara" xScale="0.786259531975" yScale="0.78823530674" xOffset="607" yOffset="106"/>
+  </outline>
+</glyph>

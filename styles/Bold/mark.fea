@@ -1,0 +1,72 @@
+# Created: Sun Nov 16 22:01:45 2014
+# PS Name: Kalam-Bold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_cedilla {
+	pos base C <anchor 206 8> mark @MC_cedilla;
+	pos base S <anchor 191 0> mark @MC_cedilla;
+	pos base T <anchor 193 0> mark @MC_cedilla;
+	pos base c <anchor 164 7> mark @MC_cedilla;
+	pos base copyright <anchor 316 198> mark @MC_cedilla;
+	pos base s <anchor 170 7> mark @MC_cedilla;
+	pos base t <anchor 124 7> mark @MC_cedilla;
+} MARK_BASE_cedilla;
+
+
+lookup MARK_BASE_ogonek {
+	pos base A <anchor 398 8> mark @MC_ogonek;
+	pos base E <anchor 440 101> mark @MC_ogonek;
+	pos base I <anchor 77 8> mark @MC_ogonek;
+	pos base U <anchor 255 23> mark @MC_ogonek;
+	pos base a <anchor 335 7> mark @MC_ogonek;
+	pos base ae <anchor 421 17> mark @MC_ogonek;
+	pos base dotlessi <anchor 53 7> mark @MC_ogonek;
+	pos base e <anchor 289 43> mark @MC_ogonek;
+	pos base i <anchor 49 7> mark @MC_ogonek;
+	pos base u <anchor 286 7> mark @MC_ogonek;
+} MARK_BASE_ogonek;
+
+
+lookup MARK_BASE_top {
+	pos base A <anchor 333 743> mark @MC_top;
+	pos base AE <anchor 355 0> mark @MC_top;
+	pos base C <anchor 436 743> mark @MC_top;
+	pos base D <anchor 429 683> mark @MC_top;
+	pos base E <anchor 342 743> mark @MC_top;
+	pos base Eth <anchor 343 657> mark @MC_top;
+	pos base G <anchor 461 723> mark @MC_top;
+	pos base I <anchor 234 743> mark @MC_top;
+	pos base L <anchor 338 743> mark @MC_top;
+	pos base Lslash <anchor 307 657> mark @MC_top;
+	pos base N <anchor 381 743> mark @MC_top;
+	pos base O <anchor 454 743> mark @MC_top;
+	pos base R <anchor 367 743> mark @MC_top;
+	pos base S <anchor 400 743> mark @MC_top;
+	pos base T <anchor 365 743> mark @MC_top;
+	pos base U <anchor 327 743> mark @MC_top;
+	pos base Y <anchor 336 743> mark @MC_top;
+	pos base Z <anchor 378 743> mark @MC_top;
+	pos base a <anchor 365 507> mark @MC_top;
+	pos base ae <anchor 500 507> mark @MC_top;
+	pos base c <anchor 279 507> mark @MC_top;
+	pos base copyright <anchor 417 510> mark @MC_top;
+	pos base dotlessi <anchor 183 507> mark @MC_top;
+	pos base e <anchor 273 507> mark @MC_top;
+	pos base g <anchor 337 507> mark @MC_top;
+	pos base l <anchor 243 733> mark @MC_top;
+	pos base lslash <anchor 300 733> mark @MC_top;
+	pos base n <anchor 288 507> mark @MC_top;
+	pos base o <anchor 287 507> mark @MC_top;
+	pos base r <anchor 207 507> mark @MC_top;
+	pos base registered <anchor 428 497> mark @MC_top;
+	pos base s <anchor 261 507> mark @MC_top;
+	pos base u <anchor 290 507> mark @MC_top;
+	pos base y <anchor 310 507> mark @MC_top;
+	pos base z <anchor 256 507> mark @MC_top;
+} MARK_BASE_top;
+
+
+

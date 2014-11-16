@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmE_Reph_Anusvara">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="50" y="816" />
+      <point x="29" y="816" />
+      <point x="5" y="785" />
+      <point type="curve" x="5" y="757" />
+      <point x="5" y="727" />
+      <point x="57" y="673" />
+      <point type="curve" x="90" y="673" />
+      <point x="106" y="673" />
+      <point x="116" y="687" />
+      <point type="curve" x="116" y="706" />
+      <point x="116" y="739" />
+      <point x="79" y="816" />
+    </contour>
+    <contour>
+      <point type="curve" x="-20" y="690" />
+      <point type="line" x="-22" y="693" />
+      <point type="line" x="-35" y="707" />
+      <point x="-45" y="721" />
+      <point x="-50" y="733" />
+      <point type="curve" x="-50" y="753" />
+      <point x="-50" y="797" />
+      <point x="-19" y="835" />
+      <point type="curve" x="47" y="835" />
+      <point x="123" y="835" />
+      <point x="146" y="790" />
+      <point type="curve" x="174" y="790" />
+      <point x="184" y="790" />
+      <point x="193" y="799" />
+      <point type="curve" x="193" y="811" />
+      <point x="193" y="877" />
+      <point x="128" y="945" />
+      <point type="curve" x="28" y="945" />
+      <point x="-46" y="945" />
+      <point x="-103" y="907" />
+      <point type="curve" x="-129" y="852" />
+      <point x="-132" y="861" />
+      <point x="-133" y="869" />
+      <point type="curve" x="-133" y="878" />
+      <point x="-133" y="916" />
+      <point x="-210" y="981" />
+      <point type="curve" x="-276" y="981" />
+      <point x="-289" y="981" />
+      <point x="-300" y="979" />
+      <point type="curve" x="-300" y="964" />
+      <point x="-300" y="855" />
+      <point x="-116" y="606" />
+      <point type="curve" x="-50" y="606" />
+      <point x="-25" y="606" />
+      <point x="7" y="619" />
+      <point type="curve" x="7" y="644" />
+      <point x="7" y="654" />
+      <point x="-4" y="670" />
+    </contour>
+  </outline>
+</glyph>

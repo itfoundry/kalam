@@ -1,0 +1,25 @@
+# Created: Sun Nov 16 22:00:59 2014
+# PS Name: Kalam-Light
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n32_636 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.e_n40_646 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_n47_606 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.virama_n154_0 = [dvmvR dvmvRR dvVirama];
+@mGC_top_0_470 = [macron circumflex caron macronmod breve ring tilde];
+@mGC_top_0_566 = [grave acute dotaccent hungarumlaut];
+
+markClass @mGC_abvm.bindu_n32_636 <anchor -32 636> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n40_646 <anchor -40 646> @MC_abvm.e;
+markClass @mGC_abvm.i_n47_606 <anchor -47 606> @MC_abvm.i;
+markClass @mGC_blwm.virama_n154_0 <anchor -154 0> @MC_blwm.virama;
+markClass @mGC_top_0_470 <anchor 0 470> @MC_top;
+markClass @mGC_top_0_566 <anchor 0 566> @MC_top;
+markClass cedilla <anchor 0 -36> @MC_cedilla;
+markClass dieresis <anchor 0 612> @MC_top;
+markClass dvAnusvara.amI <anchor -58 606> @MC_abvm.i;
+markClass dvmU <anchor -156 10> @MC_blwm.u;
+markClass dvmUU <anchor -148 10> @MC_blwm.u;
+markClass ogonek <anchor 0 0> @MC_ogonek;
+

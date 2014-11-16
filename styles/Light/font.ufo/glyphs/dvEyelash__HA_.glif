@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEyelash_HA" format="1">
+  <advance width="587"/>
+  <outline>
+    <contour>
+      <point x="500" y="646" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="300" y="-100" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="500" y="636" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="465" y="-24" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="273" y="295" type="line"/>
+      <point x="243" y="278"/>
+      <point x="211" y="269"/>
+      <point x="170" y="269" type="curve" smooth="yes"/>
+      <point x="113" y="269"/>
+      <point x="76" y="276"/>
+      <point x="76" y="336" type="curve" smooth="yes"/>
+      <point x="76" y="343"/>
+      <point x="78" y="351"/>
+      <point x="78" y="360" type="curve" smooth="yes"/>
+      <point x="78" y="370"/>
+      <point x="53" y="391"/>
+      <point x="39" y="391" type="curve" smooth="yes"/>
+      <point x="30" y="391"/>
+      <point x="27" y="381"/>
+      <point x="27" y="366" type="curve" smooth="yes"/>
+      <point x="27" y="283"/>
+      <point x="72" y="228"/>
+      <point x="173" y="228" type="curve" smooth="yes"/>
+      <point x="221" y="228"/>
+      <point x="265" y="245"/>
+      <point x="296" y="266" type="curve"/>
+    </contour>
+    <component base="dvHA" xOffset="140"/>
+  </outline>
+</glyph>

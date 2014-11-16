@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_DA_mU" format="1">
+  <advance width="896"/>
+  <outline>
+    <contour>
+      <point x="814" y="645" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="814" y="655" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvN"/>
+    <component base="dvDA_mU" xOffset="384"/>
+  </outline>
+</glyph>

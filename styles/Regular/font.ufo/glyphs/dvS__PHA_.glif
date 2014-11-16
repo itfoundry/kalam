@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_PHA" format="1">
+  <advance width="1214"/>
+  <outline>
+    <contour>
+      <point x="916" y="652" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="836" y="7" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="923" y="649" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="835" y="-4" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvPHA" xOffset="498"/>
+    <component base="dvS"/>
+  </outline>
+</glyph>

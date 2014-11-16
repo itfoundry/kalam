@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKHx_SA" format="1">
+  <advance width="1358"/>
+  <outline>
+    <component base="dvSA" xOffset="629"/>
+    <component base="dvKH" xOffset="-8"/>
+    <component base="dvNukta" xOffset="155" yOffset="41"/>
+  </outline>
+</glyph>
