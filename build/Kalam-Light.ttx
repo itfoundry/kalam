@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Kalam-Light.GlyphOrder.ttx"/>
+  <head src="Kalam-Light._h_e_a_d.ttx"/>
+  <hhea src="Kalam-Light._h_h_e_a.ttx"/>
+  <maxp src="Kalam-Light._m_a_x_p.ttx"/>
+  <OS_2 src="Kalam-Light.O_S_2f_2.ttx"/>
+  <name src="Kalam-Light._n_a_m_e.ttx"/>
+  <cmap src="Kalam-Light._c_m_a_p.ttx"/>
+  <post src="Kalam-Light._p_o_s_t.ttx"/>
+  <CFF src="Kalam-Light.C_F_F_.ttx"/>
+  <GDEF src="Kalam-Light.G_D_E_F_.ttx"/>
+  <GPOS src="Kalam-Light.G_P_O_S_.ttx"/>
+  <GSUB src="Kalam-Light.G_S_U_B_.ttx"/>
+  <hmtx src="Kalam-Light._h_m_t_x.ttx"/>
+</ttFont>
