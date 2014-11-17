@@ -45,7 +45,6 @@
       <point x="188" y="553" type="curve"/>
     </contour>
     <contour>
-      <point x="336" y="414" type="curve" smooth="yes"/>
       <point x="301" y="414"/>
       <point x="118" y="293"/>
       <point x="118" y="179" type="curve" smooth="yes"/>
@@ -72,6 +71,7 @@
       <point x="390" y="350" type="curve" smooth="yes"/>
       <point x="390" y="369"/>
       <point x="358" y="414"/>
+      <point x="336" y="414" type="curve" smooth="yes"/>
     </contour>
     <component base="dvVA" xOffset="429"/>
   </outline>

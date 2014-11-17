@@ -2,10 +2,10 @@
 <glyph name="dvmAI_Reph_Anusvara" format="1">
   <advance width="0"/>
   <outline>
+    <component base="dvmAI_Reph"/>
+    <component base="dvAnusvara" xOffset="136" yOffset="-66"/>
     <contour>
       <point x="-40" y="646" type="move" name="_abvm.e"/>
     </contour>
-    <component base="dvmAI_Reph"/>
-    <component base="dvAnusvara" xOffset="136" yOffset="-66"/>
   </outline>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="dvAcandra" format="1">
   <advance width="726"/>
   <outline>
+    <component base="dvA"/>
+    <component base="dvmEcandra" xOffset="718"/>
     <contour>
       <point x="702" y="743" type="move" name="abvm.bindu"/>
     </contour>
-    <component base="dvA"/>
-    <component base="dvmEcandra" xOffset="718"/>
   </outline>
 </glyph>

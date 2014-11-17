@@ -3,6 +3,6 @@
   <advance width="574"/>
   <outline>
     <component base="dvPH_R"/>
-    <component base="dvNukta" xScale="0.823529422283" yScale="0.822966516018" xOffset="224" yOffset="238"/>
+    <component base="dvNukta" xOffset="224" yOffset="238" xScale="0.824" yScale="0.823"/>
   </outline>
 </glyph>

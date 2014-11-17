@@ -2,19 +2,19 @@
 <glyph name="dvRxA" format="1">
   <advance width="378"/>
   <outline>
-    <contour>
-      <point x="269" y="646" type="move" name="abvm.bindu"/>
-    </contour>
+    <component base="dvRA"/>
+    <component base="dvNukta" xOffset="-79" yOffset="85"/>
     <contour>
       <point x="209" y="10" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="270" y="636" type="move" name="abvm.e"/>
+      <point x="269" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="254" y="0" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvRA"/>
-    <component base="dvNukta" xOffset="-79" yOffset="85"/>
+    <contour>
+      <point x="270" y="636" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

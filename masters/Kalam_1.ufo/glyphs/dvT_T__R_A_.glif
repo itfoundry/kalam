@@ -2,19 +2,19 @@
 <glyph name="dvTT_RA" format="1">
   <advance width="623"/>
   <outline>
-    <contour>
-      <point x="481" y="662" type="move" name="abvm.bindu"/>
-    </contour>
+    <component base="dvTTA"/>
+    <component base="dvRashtrasign" xOffset="689"/>
     <contour>
       <point x="319" y="-197" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="500" y="672" type="move" name="abvm.e"/>
+      <point x="481" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="319" y="-187" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvTTA"/>
-    <component base="dvRashtrasign" xOffset="689"/>
+    <contour>
+      <point x="500" y="672" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

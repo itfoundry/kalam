@@ -3,7 +3,9 @@
   <advance width="1150"/>
   <outline>
     <contour>
-      <point x="406" y="331" type="line"/>
+      <point x="405" y="304"/>
+      <point x="405" y="318"/>
+      <point x="406" y="331" type="curve"/>
       <point x="369" y="348"/>
       <point x="308" y="356"/>
       <point x="250" y="356" type="curve" smooth="yes"/>

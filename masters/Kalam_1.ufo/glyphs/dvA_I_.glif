@@ -2,10 +2,10 @@
 <glyph name="dvAI" format="1">
   <advance width="654"/>
   <outline>
+    <component base="dvE" xOffset="-10"/>
+    <component base="dvmE" xOffset="538"/>
     <contour>
       <point x="514" y="662" type="move" name="abvm.bindu"/>
     </contour>
-    <component base="dvE" xOffset="-10"/>
-    <component base="dvmE" xOffset="538"/>
   </outline>
 </glyph>

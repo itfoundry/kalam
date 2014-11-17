@@ -2,8 +2,10 @@
 <glyph name="dvNN_DDHA" format="1">
   <advance width="978"/>
   <outline>
+    <component base="dvNN"/>
+    <component base="dvDDHA" xOffset="463"/>
     <contour>
-      <point x="869" y="646" type="move" name="abvm.e"/>
+      <point x="689" y="39" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="869" y="636" type="move" name="abvm.bindu"/>
@@ -12,9 +14,7 @@
       <point x="689" y="51" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="689" y="39" type="move" name="blwm.virama"/>
+      <point x="869" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvNN"/>
-    <component base="dvDDHA" xOffset="463"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="dvNN_VA" format="1">
   <advance width="935"/>
   <outline>
-    <component base="dvNN"/>
     <component base="dvVA" xOffset="441"/>
+    <component base="dvNN"/>
   </outline>
 </glyph>

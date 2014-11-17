@@ -2,19 +2,19 @@
 <glyph name="dvT_PHA" format="1">
   <advance width="1060"/>
   <outline>
-    <contour>
-      <point x="788" y="646" type="move" name="abvm.bindu"/>
-    </contour>
+    <component base="dvT"/>
+    <component base="dvPHA" xOffset="376"/>
     <contour>
       <point x="696" y="10" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="788" y="636" type="move" name="abvm.e"/>
+      <point x="788" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="696" y="0" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvT"/>
-    <component base="dvPHA" xOffset="376"/>
+    <contour>
+      <point x="788" y="636" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

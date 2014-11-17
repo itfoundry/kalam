@@ -2,19 +2,19 @@
 <glyph name="dvCH_RA" format="1">
   <advance width="728"/>
   <outline>
-    <contour>
-      <point x="569" y="662" type="move" name="abvm.bindu"/>
-    </contour>
+    <component base="dvCHA"/>
+    <component base="dvRashtrasign" xOffset="707"/>
     <contour>
       <point x="344" y="-200" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="616" y="672" type="move" name="abvm.e"/>
+      <point x="569" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="344" y="-190" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvCHA"/>
-    <component base="dvRashtrasign" xOffset="707"/>
+    <contour>
+      <point x="616" y="672" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

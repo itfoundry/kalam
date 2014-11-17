@@ -2,7 +2,7 @@
 <glyph name="dvG_GHA" format="1">
   <advance width="953"/>
   <outline>
-    <component base="dvG"/>
     <component base="dvGHA" xOffset="372"/>
+    <component base="dvG"/>
   </outline>
 </glyph>

@@ -3,18 +3,6 @@
   <advance width="907"/>
   <outline>
     <contour>
-      <point x="765" y="662" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="603" y="-197" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="784" y="672" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="603" y="-187" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
       <point x="179" y="552" type="line"/>
       <point x="212" y="466"/>
       <point x="324" y="321"/>
@@ -64,5 +52,17 @@
     </contour>
     <component base="dvTTA" xOffset="284"/>
     <component base="dvRashtrasign" xOffset="973"/>
+    <contour>
+      <point x="603" y="-197" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="765" y="662" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="603" y="-187" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="784" y="672" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

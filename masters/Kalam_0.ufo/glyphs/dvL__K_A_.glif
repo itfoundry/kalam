@@ -2,8 +2,10 @@
 <glyph name="dvL_KA" format="1">
   <advance width="1221"/>
   <outline>
+    <component base="dvL"/>
+    <component base="dvKA" xOffset="460"/>
     <contour>
-      <point x="925" y="646" type="move" name="abvm.e"/>
+      <point x="803" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="925" y="636" type="move" name="abvm.bindu"/>
@@ -12,9 +14,7 @@
       <point x="803" y="10" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="803" y="0" type="move" name="blwm.virama"/>
+      <point x="925" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvL"/>
-    <component base="dvKA" xOffset="460"/>
   </outline>
 </glyph>

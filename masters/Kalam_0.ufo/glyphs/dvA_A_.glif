@@ -2,13 +2,13 @@
 <glyph name="dvAA" format="1">
   <advance width="1006"/>
   <outline>
+    <component base="dvA"/>
+    <component base="dvmAA" xOffset="729"/>
     <contour>
       <point x="954" y="636" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="954" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvA"/>
-    <component base="dvmAA" xOffset="729"/>
   </outline>
 </glyph>

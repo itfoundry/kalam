@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvVA" format="1">
   <advance width="494"/>
-  <unicode hex="0935"/>
   <outline>
     <contour>
-      <point x="386" y="300" type="curve"/>
       <point x="373" y="396"/>
       <point x="321" y="491"/>
       <point x="259" y="491" type="curve" smooth="yes"/>
@@ -47,6 +45,7 @@
       <point x="469" y="631" type="curve" smooth="yes"/>
       <point x="448" y="631"/>
       <point x="409" y="393"/>
+      <point x="386" y="300" type="curve"/>
     </contour>
     <contour>
       <point x="617" y="588" type="line" smooth="yes"/>

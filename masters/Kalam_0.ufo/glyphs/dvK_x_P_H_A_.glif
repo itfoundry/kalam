@@ -2,20 +2,20 @@
 <glyph name="dvKx_PHA" format="1">
   <advance width="1248"/>
   <outline>
-    <contour>
-      <point x="976" y="646" type="move" name="abvm.bindu"/>
-    </contour>
+    <component base="dvK"/>
+    <component base="dvPHA" xOffset="564"/>
+    <component base="dvNukta" xOffset="10"/>
     <contour>
       <point x="884" y="10" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="976" y="636" type="move" name="abvm.e"/>
+      <point x="976" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="884" y="0" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvK"/>
-    <component base="dvPHA" xOffset="564"/>
-    <component base="dvNukta" xOffset="10"/>
+    <contour>
+      <point x="976" y="636" type="move" name="abvm.e"/>
+    </contour>
   </outline>
 </glyph>

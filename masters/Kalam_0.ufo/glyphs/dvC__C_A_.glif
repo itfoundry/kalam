@@ -2,7 +2,7 @@
 <glyph name="dvC_CA" format="1">
   <advance width="1035"/>
   <outline>
-    <component base="dvC"/>
     <component base="dvCA" xOffset="349"/>
+    <component base="dvC"/>
   </outline>
 </glyph>

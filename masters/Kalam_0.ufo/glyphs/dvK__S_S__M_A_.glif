@@ -3,7 +3,6 @@
   <advance width="1131"/>
   <outline>
     <contour>
-      <point x="212" y="519" type="curve" smooth="yes"/>
       <point x="212" y="590"/>
       <point x="253" y="636"/>
       <point x="317" y="636" type="curve" smooth="yes"/>
@@ -69,6 +68,7 @@
       <point x="642" y="355" type="curve" smooth="yes"/>
       <point x="466" y="355"/>
       <point x="212" y="365"/>
+      <point x="212" y="519" type="curve" smooth="yes"/>
     </contour>
     <component base="dvMA" xOffset="495"/>
   </outline>
