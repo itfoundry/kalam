@@ -22,18 +22,6 @@
   l=  Kalam
   m=1,Kalam
 
-[Kalam-Medium]
-  f=  Kalam
-  s=  Medium
-  l=  Kalam Medium
-  m=1,Kalam Medium
-
-[Kalam-SemiBold]
-  f=  Kalam
-  s=  SemiBold
-  l=  Kalam SemiBold
-  m=1,Kalam SemiBold
-
 [Kalam-Bold]
   f=  Kalam
   s=  Bold
