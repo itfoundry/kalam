@@ -5,7 +5,7 @@
     <contour>
       <point x="-55" y="655" type="move" name="_abvm.e"/>
     </contour>
-    <component base="dvAnusvara" xScale="0.91984731853" yScale="0.919705876708" xOffset="68" yOffset="10"/>
+    <component base="dvAnusvara" xScale="0.91985" yScale="0.91985" xOffset="68" yOffset="10"/>
     <component base="dvReph"/>
   </outline>
 </glyph>

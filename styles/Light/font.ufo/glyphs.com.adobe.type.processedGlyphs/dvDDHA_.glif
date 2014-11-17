@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvDDHA">
   <advance width="566" />
-  <unicode hex="0922" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="404" y="226" />

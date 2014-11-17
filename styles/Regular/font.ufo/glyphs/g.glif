@@ -7,9 +7,6 @@
       <point x="330" y="483" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="416" y="335" type="curve" smooth="yes"/>
-      <point x="416" y="405"/>
-      <point x="389" y="511"/>
       <point x="301" y="511" type="curve" smooth="yes"/>
       <point x="164" y="511"/>
       <point x="24" y="257"/>
@@ -43,9 +40,11 @@
       <point x="380" y="272" type="curve" smooth="yes"/>
       <point x="397" y="272"/>
       <point x="416" y="293"/>
+      <point x="416" y="335" type="curve" smooth="yes"/>
+      <point x="416" y="405"/>
+      <point x="389" y="511"/>
     </contour>
     <contour>
-      <point x="414" y="239" type="curve"/>
       <point x="350" y="269" type="line"/>
       <point x="242" y="88"/>
       <point x="249" y="-179"/>
@@ -61,6 +60,7 @@
       <point x="153" y="-247" type="curve" smooth="yes"/>
       <point x="325" y="-247"/>
       <point x="307" y="46"/>
+      <point x="414" y="239" type="curve"/>
     </contour>
   </outline>
 </glyph>

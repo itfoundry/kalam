@@ -19,7 +19,9 @@
       <point type="curve" x="401" y="385" />
       <point type="line" x="387" y="385" />
       <point type="line" x="378" y="385" />
-      <point type="line" x="198" y="384" />
+      <point x="323" y="385" />
+      <point x="246" y="384" />
+      <point type="curve" x="198" y="384" />
       <point x="149" y="384" />
       <point x="114" y="388" />
       <point type="curve" x="80" y="388" />

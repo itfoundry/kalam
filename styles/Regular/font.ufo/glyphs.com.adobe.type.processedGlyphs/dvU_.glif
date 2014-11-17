@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvU">
   <advance width="593" />
-  <unicode hex="0909" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="135" y="645" />

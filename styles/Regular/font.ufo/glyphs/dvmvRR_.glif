@@ -6,9 +6,6 @@
       <point x="-149" y="-4" type="move" name="_blwm.virama"/>
     </contour>
     <contour>
-      <point x="-174" y="-18" type="curve" smooth="yes"/>
-      <point x="-264" y="-18"/>
-      <point x="-386" y="-68"/>
       <point x="-386" y="-142" type="curve" smooth="yes"/>
       <point x="-386" y="-198"/>
       <point x="-293" y="-235"/>
@@ -30,11 +27,11 @@
       <point x="-115" y="-77" type="curve" smooth="yes"/>
       <point x="-115" y="-57"/>
       <point x="-150" y="-18"/>
+      <point x="-174" y="-18" type="curve" smooth="yes"/>
+      <point x="-264" y="-18"/>
+      <point x="-386" y="-68"/>
     </contour>
     <contour>
-      <point x="-390" y="-341" type="curve" smooth="yes"/>
-      <point x="-390" y="-324"/>
-      <point x="-356" y="-301"/>
       <point x="-287" y="-275" type="curve" smooth="yes"/>
       <point x="-205" y="-244"/>
       <point x="-156" y="-238"/>
@@ -62,6 +59,9 @@
       <point x="-294" y="-363" type="curve" smooth="yes"/>
       <point x="-352" y="-363"/>
       <point x="-390" y="-357"/>
+      <point x="-390" y="-341" type="curve" smooth="yes"/>
+      <point x="-390" y="-324"/>
+      <point x="-356" y="-301"/>
     </contour>
   </outline>
 </glyph>

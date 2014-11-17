@@ -2,8 +2,8 @@
 <glyph name="dvL_JxA" format="1">
   <advance width="1211"/>
   <outline>
-    <component base="dvL"/>
-    <component base="dvNukta" xOffset="501" yOffset="34"/>
     <component base="dvJA" xOffset="501"/>
+    <component base="dvNukta" xOffset="501" yOffset="34"/>
+    <component base="dvL"/>
   </outline>
 </glyph>

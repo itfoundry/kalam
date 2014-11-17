@@ -10,14 +10,6 @@
 	<integer>-435</integer>
 	<key>familyName</key>
 	<string>Kalam</string>
-	<key>italicAngle</key>
-	<integer>0</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -33,8 +25,6 @@
 	<false/>
 	<key>postscriptFullName</key>
 	<string>Kalam Bold</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -44,10 +34,6 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
 	<key>postscriptWeightName</key>
 	<string>Bold</string>
 	<key>styleName</key>

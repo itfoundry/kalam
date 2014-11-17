@@ -3,9 +3,6 @@
   <advance width="952"/>
   <outline>
     <contour>
-      <point x="129" y="114" type="curve" smooth="yes"/>
-      <point x="294" y="114"/>
-      <point x="503" y="206"/>
       <point x="503" y="276" type="curve" smooth="yes"/>
       <point x="503" y="290"/>
       <point x="496" y="300"/>
@@ -45,6 +42,9 @@
       <point x="51" y="182" type="curve" smooth="yes"/>
       <point x="51" y="154"/>
       <point x="93" y="114"/>
+      <point x="129" y="114" type="curve" smooth="yes"/>
+      <point x="294" y="114"/>
+      <point x="503" y="206"/>
     </contour>
     <component base="dvYA" xOffset="327"/>
   </outline>

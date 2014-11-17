@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvNA">
   <advance width="606" />
-  <unicode hex="0928" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="270" y="265" />

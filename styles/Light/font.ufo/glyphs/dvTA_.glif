@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvTA" format="1">
   <advance width="567"/>
-  <unicode hex="0924"/>
   <outline>
     <contour>
       <point x="472" y="349" type="line"/>
@@ -28,9 +27,6 @@
       <point x="455" y="309" type="curve"/>
     </contour>
     <contour>
-      <point x="389" y="37" type="curve" smooth="yes"/>
-      <point x="389" y="28"/>
-      <point x="409" y="12"/>
       <point x="417" y="12" type="curve" smooth="yes"/>
       <point x="431" y="12"/>
       <point x="475" y="195"/>
@@ -49,6 +45,9 @@
       <point x="450" y="319" type="curve" smooth="yes"/>
       <point x="423" y="189"/>
       <point x="389" y="58"/>
+      <point x="389" y="37" type="curve" smooth="yes"/>
+      <point x="389" y="28"/>
+      <point x="409" y="12"/>
     </contour>
     <contour>
       <point x="681" y="588" type="line"/>

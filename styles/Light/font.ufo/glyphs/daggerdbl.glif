@@ -4,9 +4,6 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="85" y="94" type="curve" smooth="yes"/>
-      <point x="303" y="112"/>
-      <point x="337" y="117"/>
       <point x="337" y="134" type="curve" smooth="yes"/>
       <point x="337" y="148"/>
       <point x="310" y="158"/>
@@ -19,6 +16,9 @@
       <point x="-51" y="83" type="curve" smooth="yes"/>
       <point x="-24" y="83"/>
       <point x="9" y="88"/>
+      <point x="85" y="94" type="curve" smooth="yes"/>
+      <point x="303" y="112"/>
+      <point x="337" y="117"/>
     </contour>
     <component base="dagger" xOffset="-17"/>
   </outline>

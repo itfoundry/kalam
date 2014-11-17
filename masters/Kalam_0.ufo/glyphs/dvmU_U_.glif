@@ -3,8 +3,9 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-117" y="-161"/>
-      <point x="-141" y="-158"/>
+      <point x="-148" y="10" type="move" name="_blwm.u"/>
+    </contour>
+    <contour>
       <point x="-175" y="-158" type="curve" smooth="yes"/>
       <point x="-213" y="-158"/>
       <point x="-245" y="-139"/>
@@ -36,9 +37,8 @@
       <point x="-141" y="-201"/>
       <point x="-117" y="-191"/>
       <point x="-117" y="-172" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-148" y="10" type="move" name="_blwm.u"/>
+      <point x="-117" y="-161"/>
+      <point x="-141" y="-158"/>
     </contour>
   </outline>
 </glyph>

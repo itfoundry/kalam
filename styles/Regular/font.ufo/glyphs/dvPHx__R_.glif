@@ -2,7 +2,7 @@
 <glyph name="dvPHx_R" format="1">
   <advance width="574"/>
   <outline>
-    <component base="dvNukta" xScale="0.938235297799" yScale="0.938038280606" xOffset="-11" yOffset="161"/>
+    <component base="dvNukta" xScale="0.9384" yScale="0.93805" xOffset="-11" yOffset="161"/>
     <component base="dvPH_R"/>
   </outline>
 </glyph>

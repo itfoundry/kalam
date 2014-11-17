@@ -2,8 +2,6 @@
 <glyph name="dvL_TTA" format="1">
   <advance width="1012"/>
   <outline>
-    <component base="dvL"/>
-    <component base="dvTTA" xOffset="426"/>
     <contour>
       <point x="712" y="39" type="move" name="blwm.virama"/>
     </contour>
@@ -16,5 +14,7 @@
     <contour>
       <point x="880" y="636" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvL"/>
+    <component base="dvTTA" xOffset="426"/>
   </outline>
 </glyph>

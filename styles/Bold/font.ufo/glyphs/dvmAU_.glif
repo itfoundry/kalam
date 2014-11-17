@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvmAU" format="1">
   <advance width="289"/>
-  <unicode hex="094C"/>
   <outline>
     <component base="dvmAI" xOffset="284"/>
     <component base="dvmAA"/>

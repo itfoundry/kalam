@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvAI" format="1">
   <advance width="654"/>
-  <unicode hex="0910"/>
   <outline>
     <contour>
       <point x="514" y="662" type="move" name="abvm.bindu"/>

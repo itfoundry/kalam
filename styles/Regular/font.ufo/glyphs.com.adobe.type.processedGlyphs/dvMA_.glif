@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvMA">
   <advance width="652" />
-  <unicode hex="092E" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="317" y="386" />

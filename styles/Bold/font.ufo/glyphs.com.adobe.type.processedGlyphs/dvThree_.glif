@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvThree">
   <advance width="534" />
-  <unicode hex="0969" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="196" y="127" />

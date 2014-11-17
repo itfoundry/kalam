@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvNYA">
   <advance width="745" />
-  <unicode hex="091E" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="91" y="645" />

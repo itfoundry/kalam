@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvDDHA" format="1">
   <advance width="593"/>
-  <unicode hex="0922"/>
   <outline>
     <contour>
       <point x="463" y="645" type="move" name="abvm.bindu"/>
@@ -16,9 +15,6 @@
       <point x="270" y="30" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="423" y="456" type="curve" smooth="yes"/>
-      <point x="423" y="412"/>
-      <point x="434" y="360"/>
       <point x="457" y="360" type="curve" smooth="yes"/>
       <point x="482" y="360"/>
       <point x="490" y="375"/>
@@ -31,11 +27,11 @@
       <point x="483" y="616" type="curve" smooth="yes"/>
       <point x="444" y="616"/>
       <point x="423" y="528"/>
+      <point x="423" y="456" type="curve" smooth="yes"/>
+      <point x="423" y="412"/>
+      <point x="434" y="360"/>
     </contour>
     <contour>
-      <point x="368" y="408" type="curve" smooth="yes"/>
-      <point x="419" y="408"/>
-      <point x="436" y="358"/>
       <point x="462" y="358" type="curve" smooth="yes"/>
       <point x="479" y="358"/>
       <point x="488" y="375"/>
@@ -76,6 +72,9 @@
       <point x="117" y="183" type="curve" smooth="yes"/>
       <point x="117" y="252"/>
       <point x="315" y="408"/>
+      <point x="368" y="408" type="curve" smooth="yes"/>
+      <point x="419" y="408"/>
+      <point x="436" y="358"/>
     </contour>
     <contour>
       <point x="665" y="576" type="line"/>

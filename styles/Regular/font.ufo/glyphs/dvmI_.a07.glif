@@ -6,9 +6,6 @@
       <point x="895" y="599" type="move" name="abvm.i"/>
     </contour>
     <contour>
-      <point x="443" y="947" type="curve" smooth="yes"/>
-      <point x="259" y="947"/>
-      <point x="157" y="838"/>
       <point x="157" y="699" type="curve" smooth="yes"/>
       <point x="157" y="662"/>
       <point x="169" y="630"/>
@@ -28,11 +25,11 @@
       <point x="902" y="641" type="curve" smooth="yes"/>
       <point x="836" y="808"/>
       <point x="673" y="947"/>
+      <point x="443" y="947" type="curve" smooth="yes"/>
+      <point x="259" y="947"/>
+      <point x="157" y="838"/>
     </contour>
     <contour>
-      <point x="197" y="637" type="curve" smooth="yes"/>
-      <point x="185" y="637"/>
-      <point x="180" y="629"/>
       <point x="177" y="607" type="curve" smooth="yes"/>
       <point x="160" y="511"/>
       <point x="141" y="418"/>
@@ -51,6 +48,9 @@
       <point x="255" y="585" type="curve" smooth="yes"/>
       <point x="255" y="608"/>
       <point x="219" y="637"/>
+      <point x="197" y="637" type="curve" smooth="yes"/>
+      <point x="185" y="637"/>
+      <point x="180" y="629"/>
     </contour>
     <contour>
       <point x="94" y="645" type="line"/>

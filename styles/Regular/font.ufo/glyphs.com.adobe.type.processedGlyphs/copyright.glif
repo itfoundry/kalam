@@ -4,7 +4,10 @@
   <unicode hex="00A9" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="452" y="543" />
+      <point name="hintSet0000" type="curve" x="501" y="491" />
+      <point x="501" y="511" />
+      <point x="474" y="543" />
+      <point type="curve" x="452" y="543" />
       <point x="351" y="543" />
       <point x="234" y="384" />
       <point type="curve" x="234" y="287" />
@@ -31,14 +34,8 @@
       <point type="curve" x="488" y="477" />
       <point x="495" y="477" />
       <point x="501" y="481" />
-      <point type="curve" x="501" y="491" />
-      <point x="501" y="511" />
-      <point x="474" y="543" />
     </contour>
     <contour>
-      <point type="curve" x="622" y="413" />
-      <point x="622" y="220" />
-      <point x="503" y="113" />
       <point type="curve" x="316" y="113" />
       <point x="218" y="113" />
       <point x="147" y="176" />
@@ -48,11 +45,11 @@
       <point type="curve" x="458" y="606" />
       <point x="549" y="606" />
       <point x="622" y="526" />
+      <point type="curve" x="622" y="413" />
+      <point x="622" y="220" />
+      <point x="503" y="113" />
     </contour>
     <contour>
-      <point type="curve" x="327" y="60" />
-      <point x="533" y="60" />
-      <point x="693" y="206" />
       <point type="curve" x="693" y="404" />
       <point x="693" y="549" />
       <point x="596" y="660" />
@@ -62,6 +59,9 @@
       <point type="curve" x="79" y="309" />
       <point x="79" y="170" />
       <point x="164" y="60" />
+      <point type="curve" x="327" y="60" />
+      <point x="533" y="60" />
+      <point x="693" y="206" />
     </contour>
   </outline>
 </glyph>

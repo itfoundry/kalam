@@ -3,7 +3,7 @@
   <advance width="268"/>
   <outline>
     <component base="dvmAA" xOffset="-13"/>
-    <component base="dvAnusvara" xScale="0.901145038009" yScale="0.901176476479" xOffset="306" yOffset="45"/>
+    <component base="dvAnusvara" xScale="0.9013" yScale="0.9013" xOffset="306" yOffset="45"/>
     <component base="dvmE_Reph" xOffset="258"/>
   </outline>
 </glyph>

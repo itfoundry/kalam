@@ -3,7 +3,10 @@
   <advance width="1200" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="812" y="399" />
+      <point name="hintSet0000" type="line" x="834" y="554" />
+      <point x="827" y="502" />
+      <point x="819" y="451" />
+      <point type="curve" x="812" y="399" />
       <point x="782" y="439" />
       <point x="744" y="472" />
       <point type="curve" x="705" y="472" />
@@ -16,7 +19,6 @@
       <point x="404" y="369" />
       <point x="353" y="470" />
       <point type="curve" x="317" y="554" />
-      <point type="line" x="834" y="554" />
     </contour>
     <contour>
       <point type="curve" x="615" y="197" />

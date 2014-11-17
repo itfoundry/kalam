@@ -6,9 +6,6 @@
       <point x="704" y="599" type="move" name="abvm.i"/>
     </contour>
     <contour>
-      <point x="400" y="946" type="curve" smooth="yes"/>
-      <point x="247" y="946"/>
-      <point x="158" y="831"/>
       <point x="158" y="694" type="curve" smooth="yes"/>
       <point x="158" y="654"/>
       <point x="171" y="625"/>
@@ -28,11 +25,11 @@
       <point x="696" y="643" type="curve" smooth="yes"/>
       <point x="664" y="802"/>
       <point x="565" y="946"/>
+      <point x="400" y="946" type="curve" smooth="yes"/>
+      <point x="247" y="946"/>
+      <point x="158" y="831"/>
     </contour>
     <contour>
-      <point x="197" y="637" type="curve" smooth="yes"/>
-      <point x="185" y="637"/>
-      <point x="180" y="629"/>
       <point x="177" y="607" type="curve" smooth="yes"/>
       <point x="160" y="511"/>
       <point x="141" y="418"/>
@@ -51,10 +48,12 @@
       <point x="255" y="585" type="curve" smooth="yes"/>
       <point x="255" y="608"/>
       <point x="219" y="637"/>
+      <point x="197" y="637" type="curve" smooth="yes"/>
+      <point x="185" y="637"/>
+      <point x="180" y="629"/>
     </contour>
     <contour>
-      <point x="346" y="645" type="curve" smooth="yes"/>
-      <point x="94" y="645" type="line" smooth="yes"/>
+      <point x="94" y="645" type="line"/>
       <point x="45" y="645"/>
       <point x="16" y="638"/>
       <point x="16" y="613" type="curve" smooth="yes"/>
@@ -67,6 +66,7 @@
       <point x="429" y="610" type="curve" smooth="yes"/>
       <point x="429" y="633"/>
       <point x="402" y="645"/>
+      <point x="346" y="645" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

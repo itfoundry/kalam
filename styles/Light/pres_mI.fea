@@ -11,14 +11,16 @@
   dvRxA
 ];
 
-@mI_BASES_02 = [
+# @mI_BASES_02 = [];
+
+@mI_BASES_03 = [
   dvHA
   dvTT_TTA
   dvDD_DDHA
   dvD_DA
 ];
 
-@mI_BASES_03 = [
+@mI_BASES_04 = [
   dvNGA
   dvTTHA
   dvDDA
@@ -33,13 +35,16 @@
   dvD_RA
   dvP_RA
   dvPH_RA
+  dvSS_RA
   dvH_RA
   dvPHx_RA
   dvTT_TTHA
   dvTT_VA
+  dvTTH_VA
   dvDD_DDA
   dvDD_VA
   dvDDH_DDHA
+  dvDDH_VA
   dvD_GA
   dvD_NA
   dvD_VA
@@ -51,7 +56,7 @@
   dvH_VA
 ];
 
-@mI_BASES_04 = [
+@mI_BASES_05 = [
   dvKA
   dvTTA
   dvDDHA
@@ -69,7 +74,7 @@
   dvV_NA
 ];
 
-@mI_BASES_05 = [
+@mI_BASES_06 = [
   dvBA
   dvDDHxA
   dvT_RA
@@ -78,12 +83,13 @@
   dvK_TA
   dvT_NA
   dvD_G_RA
+  dvD_BA
   dvN_NA
   dvB_NA
   dvEyelash_HA
 ];
 
-@mI_BASES_06 = [
+@mI_BASES_07 = [
   dvGHA
   dvTA
   dvTHA
@@ -98,13 +104,12 @@
   dvTH_NA
   dvD_GHA
   dvD_DHA
-  dvD_BA
   dvD_YA
   dvDH_NA
   dvY_NA
 ];
 
-@mI_BASES_07 = [
+@mI_BASES_08 = [
   dvGA
   dvCHA
   dvBHA
@@ -118,7 +123,7 @@
   dvM_NA
 ];
 
-@mI_BASES_08 = [
+@mI_BASES_09 = [
   dvCA
   dvNNA
   dvSHA
@@ -135,7 +140,7 @@
   dvEyelash_YA
 ];
 
-@mI_BASES_09 = [
+@mI_BASES_10 = [
   dvJA
   dvNYA
   dvLA
@@ -143,6 +148,7 @@
   dvJ_NYA
   dvJxA
   dvNY_RA
+  dvL_RA
   dvT_PA
   dvP_PA
   dvP_PHA
@@ -151,15 +157,18 @@
   dvH_YA
 ];
 
-@mI_BASES_10 = [
+@mI_BASES_11 = [
   dvKHA
   dvLLA
   dvK_SSA
   dvKH_RA
   dvSH_RA
   dvS_RA
+  dvLL_RA
   dvKHx_RA
   dvKH_NA
+  dvD_MA
+  dvN_HA
   dvP_TTA
   dvP_TTHA
   dvP_VA
@@ -172,37 +181,36 @@
   dvSS_TTH_RA
 ];
 
-@mI_BASES_11 = [
+@mI_BASES_12 = [
   dvJHA
   dvKHxA
   dvJH_RA
+  dvG_DA
   dvJH_NA
   dvT_KA
   dvT_P_RA
-  dvD_MA
-  dvN_HA
+  dvN_DA
   dvP_YA
   dvB_DA
   dvM_HA
+  dvV_VA
   dvSS_PHA
   dvSS_SSA
 ];
 
-@mI_BASES_12 = [
-  dvG_DA
+@mI_BASES_13 = [
   dvT_K_RA
   dvT_PHA
   dvT_R_YA
   dvT_VA
+  dvTH_VA
   dvN_TTA
   dvN_DDA
   dvN_T_YA
-  dvN_DA
   dvN_D_RA
   dvN_D_VA
   dvB_VA
   dvM_DA
-  dvV_VA
   dvSS_KA
   dvSS_PA
   dvSS_P_RA
@@ -210,17 +218,17 @@
   dvS_NA
 ];
 
-@mI_BASES_13 = [
+@mI_BASES_14 = [
   dvG_BA
   dvG_VA
   dvNN_TTA
   dvNN_TTHA
   dvNN_DDA
+  dvNN_DDHA
   dvT_THA
   dvT_N_YA
   dvT_YA
   dvTH_YA
-  dvTH_VA
   dvDH_VA
   dvN_KA
   dvN_T_RA
@@ -236,18 +244,21 @@
   dvM_PA
   dvY_YA
   dvL_TTHA
+  dvL_DA
   dvV_YA
   dvSH_KA
   dvSH_KxA
+  dvSH_TTA
   dvSS_YA
   dvS_K_RA
   dvS_TTA
   dvS_DA
 ];
 
-@mI_BASES_14 = [
+@mI_BASES_15 = [
+  dvK_DA
+  dvG_YA
   dvJ_DA
-  dvNN_DDHA
   dvNN_VA
   dvDH_N_YA
   dvDH_YA
@@ -268,25 +279,21 @@
   dvM_VA
   dvL_TTA
   dvL_DDHA
-  dvL_DA
   dvL_D_RA
   dvL_HA
   dvSH_CA
-  dvSH_TTA
   dvS_KA
   dvS_PA
   dvS_PHA
 ];
 
-@mI_BASES_15 = [
+@mI_BASES_16 = [
   dvK_KA
   dvKx_KxA
   dvK_TTA
-  dvK_DA
   dvG_GA
   dvG_GHA
   dvG_DHA
-  dvG_YA
   dvG_R_YA
   dvGH_YA
   dvC_CH_VA
@@ -299,6 +306,7 @@
   dvT_MA
   dvN_CA
   dvN_DHA
+  dvP_LA
   dvP_SA
   dvM_TA
   dvL_KA
@@ -311,7 +319,7 @@
   dvS_VA
 ];
 
-@mI_BASES_16 = [
+@mI_BASES_17 = [
   dvK_T_RA
   dvK_PA
   dvK_PHA
@@ -321,14 +329,18 @@
   dvG_BHA
   dvG_MA
   dvGH_MA
+  dvC_CA
   dvJ_J_VA
   dvJ_YA
   dvJx_YA
   dvJ_VA
   dvNY_CHA
   dvNN_YA
+  dvT_SA
+  dvDH_MA
+  dvN_CHA
   dvN_MA
-  dvP_LA
+  dvPH_TTA
   dvPH_PA
   dvPH_PHA
   dvPHx_PHxA
@@ -342,27 +354,24 @@
   dvSH_TA
   dvSS_NNA
   dvS_TA
+  dvS_T_RA
   dvS_MA
   dvS_YA
 ];
 
-@mI_BASES_17 = [
+@mI_BASES_18 = [
   dvK_P_RA
   dvKx_BA
   dvK_SS_YA
   dvK_SS_VA
   dvG_NNA
-  dvC_CA
   dvC_CHA
   dvJ_TA
   dvJ_BA
   dvNY_CA
   dvDD_YA
-  dvT_SA
-  dvDH_MA
-  dvN_CHA
+  dvT_K_SSA
   dvN_BHA
-  dvPH_TTA
   dvB_JA
   dvB_JxA
   dvB_BHA
@@ -371,11 +380,12 @@
   dvM_BH_RA
   dvL_THA
   dvV_LA
+  dvSH_CHA
   dvSH_YA
-  dvS_T_RA
+  dvSS_K_RA
 ];
 
-@mI_BASES_18 = [
+@mI_BASES_19 = [
   dvKx_TA
   dvK_THA
   dvKH_YA
@@ -387,26 +397,23 @@
   dvC_YA
   dvJH_YA
   dvTTH_YA
+  dvNN_NNA
   dvNN_MA
-  dvT_K_SSA
   dvT_KHA
   dvT_KH_RA
   dvT_LA
   dvB_SHA
   dvM_SHA
   dvL_GA
-  dvSH_CHA
-  dvSS_K_RA
 ];
 
-@mI_BASES_19 = [
+@mI_BASES_20 = [
   dvK_MA
   dvKx_MA
   dvK_SS_MA
   dvKHx_YA
   dvC_MA
   dvJ_MA
-  dvNN_NNA
   dvT_S_NA
   dvN_SA
   dvPH_TA
@@ -423,7 +430,7 @@
   dvS_JA
 ];
 
-@mI_BASES_20 = [
+@mI_BASES_21 = [
   dvK_YA
   dvKH_TA
   dvKHx_TA
@@ -433,6 +440,7 @@
   dvNY_SHA
   dvTT_YA
   dvDDH_YA
+  dvN_TH_VA
   dvP_T_YA
   dvM_SA
   dvSH_LA
@@ -440,10 +448,11 @@
   dvS_SA
 ];
 
-@mI_BASES_21 = [
+@mI_BASES_22 = [
   dvK_JA
   dvK_NNA
   dvK_LA
+  dvK_SHA
   dvKH_MA
   dvKHx_MA
   dvG_DH_VA
@@ -455,7 +464,7 @@
   dvT_P_LA
   dvT_M_YA
   dvN_TH_YA
-  dvN_TH_VA
+  dvN_DH_VA
   dvB_DH_VA
   dvL_JA
   dvL_JxA
@@ -464,14 +473,13 @@
   dvS_KHA
 ];
 
-@mI_BASES_22 = [
+@mI_BASES_23 = [
   dvK_CA
-  dvK_SHA
   dvK_SA
   dvKH_SHA
   dvG_DH_YA
   dvT_S_VA
-  dvN_DH_VA
+  dvN_DH_YA
   dvPH_JA
   dvPHx_JxA
   dvPH_LA
@@ -481,7 +489,7 @@
   dvS_TH_YA
 ];
 
-@mI_BASES_23 = [
+@mI_BASES_24 = [
   dvK_KHA
   dvKHx_SHA
   dvKHx_SA
@@ -489,7 +497,6 @@
   dvG_BH_YA
   dvT_K_VA
   dvT_S_YA
-  dvN_DH_YA
   dvN_BH_YA
   dvN_BH_VA
   dvN_M_YA
@@ -504,47 +511,45 @@
   dvLL_YA
 ];
 
-@mI_BASES_24 = [
+@mI_BASES_25 = [
   dvK_T_YA
   dvB_J_YA
+  dvB_L_YA
   dvL_TH_YA
   dvL_V_DDA
   dvSS_NN_YA
 ];
 
-@mI_BASES_25 = [
+@mI_BASES_26 = [
   dvK_T_VA
   dvK_V_YA
   dvKH_KHA
   dvN_T_SA
-  dvB_L_YA
   dvSS_TTH_YA
 ];
 
-@mI_BASES_26 = [
+@mI_BASES_27 = [
   dvK_SS_M_YA
+  dvK_S_TTA
   dvN_S_YA
   dvSS_TT_YA
 ];
 
-@mI_BASES_27 = [
-  dvK_S_TTA
+@mI_BASES_28 = [
+  dvJ_J_YA
   dvT_K_YA
   dvS_K_VA
 ];
 
-@mI_BASES_28 = [
+@mI_BASES_29 = [
   dvK_S_DDA
-  dvJ_J_YA
   dvL_L_YA
 ];
 
-@mI_BASES_29 = [
+@mI_BASES_30 = [
   dvK_S_TA
   dvK_S_P_RA
 ];
-
-# @mI_BASES_30 = [];
 
 # @mI_BASES_31 = [];
 
@@ -557,7 +562,7 @@
 # RULES
 
   sub dvmI' @mI_BASES_01 by dvmI.a01;
-  sub dvmI' @mI_BASES_02 by dvmI.a02;
+# sub dvmI' @mI_BASES_02 by dvmI.a02;
   sub dvmI' @mI_BASES_03 by dvmI.a03;
   sub dvmI' @mI_BASES_04 by dvmI.a04;
   sub dvmI' @mI_BASES_05 by dvmI.a05;
@@ -585,6 +590,6 @@
   sub dvmI' @mI_BASES_27 by dvmI.a27;
   sub dvmI' @mI_BASES_28 by dvmI.a28;
   sub dvmI' @mI_BASES_29 by dvmI.a29;
-# sub dvmI' @mI_BASES_30 by dvmI.a30;
+  sub dvmI' @mI_BASES_30 by dvmI.a30;
 # sub dvmI' @mI_BASES_31 by dvmI.a31;
   sub dvmI' @mI_BASES_32 by dvmI.a32;

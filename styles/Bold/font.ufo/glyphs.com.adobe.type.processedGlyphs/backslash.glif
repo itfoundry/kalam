@@ -4,7 +4,10 @@
   <unicode hex="005C" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="463" y="-80" />
+      <point name="hintSet0000" type="curve" x="284" y="293" />
+      <point x="357" y="116" />
+      <point x="440" y="-80" />
+      <point type="curve" x="463" y="-80" />
       <point x="493" y="-80" />
       <point x="541" y="-17" />
       <point type="curve" x="541" y="14" />
@@ -19,9 +22,6 @@
       <point type="curve" x="115" y="729" />
       <point x="115" y="675" />
       <point x="171" y="568" />
-      <point type="curve" x="284" y="293" />
-      <point x="357" y="116" />
-      <point x="440" y="-80" />
     </contour>
   </outline>
 </glyph>

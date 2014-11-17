@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvII" format="1">
   <advance width="531"/>
-  <unicode hex="0908"/>
   <outline>
     <contour>
-      <point x="306" y="76" type="curve" smooth="yes"/>
-      <point x="270" y="170"/>
-      <point x="216" y="256"/>
       <point x="126" y="256" type="curve" smooth="yes"/>
       <point x="68" y="256"/>
       <point x="21" y="220"/>
@@ -58,11 +54,11 @@
       <point x="384" y="-134" type="curve" smooth="yes"/>
       <point x="384" y="-114"/>
       <point x="332" y="7"/>
+      <point x="306" y="76" type="curve" smooth="yes"/>
+      <point x="270" y="170"/>
+      <point x="216" y="256"/>
     </contour>
     <contour>
-      <point x="407" y="565" type="curve" smooth="yes"/>
-      <point x="407" y="526"/>
-      <point x="401" y="461"/>
       <point x="401" y="422" type="curve" smooth="yes"/>
       <point x="401" y="399"/>
       <point x="407" y="385"/>
@@ -75,11 +71,11 @@
       <point x="425" y="621" type="curve" smooth="yes"/>
       <point x="411" y="621"/>
       <point x="407" y="603"/>
+      <point x="407" y="565" type="curve" smooth="yes"/>
+      <point x="407" y="526"/>
+      <point x="401" y="461"/>
     </contour>
     <contour>
-      <point x="361" y="753" type="curve" smooth="yes"/>
-      <point x="361" y="817"/>
-      <point x="410" y="849"/>
       <point x="478" y="849" type="curve" smooth="yes"/>
       <point x="557" y="849"/>
       <point x="591" y="791"/>
@@ -101,6 +97,9 @@
       <point x="457" y="623" type="curve" smooth="yes"/>
       <point x="457" y="650"/>
       <point x="361" y="664"/>
+      <point x="361" y="753" type="curve" smooth="yes"/>
+      <point x="361" y="817"/>
+      <point x="410" y="849"/>
     </contour>
     <contour>
       <point x="571" y="588" type="line"/>
