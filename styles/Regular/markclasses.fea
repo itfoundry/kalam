@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 17:25:11 2014
+# Created: Tue Nov 18 19:09:03 2014
 # PS Name: Kalam-Regular
 # MM Inst: None
 # exported from noApp
@@ -15,5 +15,4 @@ markClass @mGC_blwm.virama_n149_n4 <anchor -149 -4> @MC_blwm.virama;
 markClass dvAnusvara.amI <anchor -75 599> @MC_abvm.i;
 markClass dvmU <anchor -150 7> @MC_blwm.u;
 markClass dvmUU <anchor -145 7> @MC_blwm.u;
-markClass grave <anchor 0 579> @MC_top;
 

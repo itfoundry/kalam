@@ -2,8 +2,6 @@
 <glyph name="dvCH_RA" format="1">
   <advance width="646"/>
   <outline>
-    <component base="dvCHA"/>
-    <component base="dvRashtrasign" xOffset="543" yOffset="-20"/>
     <contour>
       <point x="196" y="-144" type="move" name="blwm.virama"/>
     </contour>
@@ -16,5 +14,7 @@
     <contour>
       <point x="593" y="636" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvCHA"/>
+    <component base="dvRashtrasign" xOffset="543" yOffset="-20"/>
   </outline>
 </glyph>

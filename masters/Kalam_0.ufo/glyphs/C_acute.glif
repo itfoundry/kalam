@@ -4,8 +4,12 @@
   <unicode hex="0106"/>
   <outline>
     <contour>
-      <point x="560" y="660"/>
-      <point x="521" y="702"/>
+      <point x="276" y="0" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="504" y="683" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="487" y="702" type="curve" smooth="yes"/>
       <point x="301" y="702"/>
       <point x="81" y="395"/>
@@ -34,10 +38,10 @@
       <point x="559" y="623"/>
       <point x="560" y="624"/>
       <point x="560" y="633" type="curve" smooth="yes"/>
+      <point x="560" y="660"/>
+      <point x="521" y="702"/>
     </contour>
     <contour>
-      <point x="533" y="834"/>
-      <point x="512" y="818"/>
       <point x="512" y="799" type="curve" smooth="yes"/>
       <point x="512" y="787"/>
       <point x="522" y="780"/>
@@ -54,12 +58,8 @@
       <point x="637" y="951"/>
       <point x="609" y="915"/>
       <point x="577" y="881" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="276" y="0" type="move" name="cedilla"/>
-    </contour>
-    <contour>
-      <point x="504" y="683" type="move" name="top"/>
+      <point x="533" y="834"/>
+      <point x="512" y="818"/>
     </contour>
   </outline>
 </glyph>

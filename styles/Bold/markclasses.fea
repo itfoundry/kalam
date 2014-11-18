@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 17:25:36 2014
+# Created: Tue Nov 18 19:09:26 2014
 # PS Name: Kalam-Bold
 # MM Inst: None
 # exported from noApp
@@ -15,5 +15,4 @@ markClass @mGC_abvm.i_n82_587 <anchor -82 587> @MC_abvm.i;
 markClass @mGC_blwm.u_n139_0 <anchor -139 0> @MC_blwm.u;
 markClass @mGC_blwm.virama_n139_n10 <anchor -139 -10> @MC_blwm.virama;
 markClass dvAnusvara.amI <anchor -106 587> @MC_abvm.i;
-markClass grave <anchor 0 603> @MC_top;
 

@@ -25,7 +25,6 @@
 		<string>dvmAI_Anusvara</string>
 		<string>dvmAI_Reph</string>
 		<string>dvmAI_Reph_Anusvara</string>
-		<string>grave</string>
 	</array>
 	<key>mII_BASES</key>
 	<array>
@@ -173,8 +172,8 @@
 		<string>dvY_RA</string>
 		<string>dvL_RA</string>
 		<string>dvV_RA</string>
-		<string>dvSS_RA</string>
 		<string>dvSH_RA</string>
+		<string>dvSS_RA</string>
 		<string>dvS_RA</string>
 		<string>dvH_RA</string>
 		<string>dvLL_RA</string>

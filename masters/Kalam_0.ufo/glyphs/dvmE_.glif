@@ -3,8 +3,9 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-264" y="964"/>
-      <point x="-266" y="959"/>
+      <point x="-40" y="646" type="move" name="_abvm.e"/>
+    </contour>
+    <contour>
       <point x="-266" y="948" type="curve" smooth="yes"/>
       <point x="-266" y="871"/>
       <point x="-73" y="616"/>
@@ -18,9 +19,8 @@
       <point x="-170" y="914"/>
       <point x="-235" y="964"/>
       <point x="-256" y="964" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-40" y="646" type="move" name="_abvm.e"/>
+      <point x="-264" y="964"/>
+      <point x="-266" y="959"/>
     </contour>
   </outline>
 </glyph>

@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 17:24:48 2014
+# Created: Tue Nov 18 19:08:39 2014
 # PS Name: Kalam-Light
 # MM Inst: None
 # exported from noApp
@@ -15,5 +15,4 @@ markClass @mGC_blwm.virama_n154_0 <anchor -154 0> @MC_blwm.virama;
 markClass dvAnusvara.amI <anchor -58 606> @MC_abvm.i;
 markClass dvmU <anchor -156 10> @MC_blwm.u;
 markClass dvmUU <anchor -148 10> @MC_blwm.u;
-markClass grave <anchor 0 566> @MC_top;
 
