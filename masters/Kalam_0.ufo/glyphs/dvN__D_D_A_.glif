@@ -2,6 +2,8 @@
 <glyph name="dvN_DDA" format="1">
   <advance width="839"/>
   <outline>
+    <component base="dvN"/>
+    <component base="dvDDA" xOffset="358"/>
     <contour>
       <point x="594" y="39" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,5 @@
     <contour>
       <point x="786" y="636" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvN"/>
-    <component base="dvDDA" xOffset="358"/>
   </outline>
 </glyph>

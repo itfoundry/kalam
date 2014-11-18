@@ -2,6 +2,8 @@
 <glyph name="dvKx_RA" format="1">
   <advance width="763"/>
   <outline>
+    <component base="dvK_RA" xOffset="2"/>
+    <component base="dvNukta" xOffset="-84" yOffset="85"/>
     <contour>
       <point x="343" y="0" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,5 @@
     <contour>
       <point x="454" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvK_RA" xOffset="2"/>
-    <component base="dvNukta" xOffset="-84" yOffset="85"/>
   </outline>
 </glyph>

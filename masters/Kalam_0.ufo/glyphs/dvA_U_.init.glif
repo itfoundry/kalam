@@ -2,11 +2,11 @@
 <glyph name="dvAU.init" format="1">
   <advance width="1126"/>
   <outline>
-    <contour>
-      <point x="1201" y="616" type="move" name="abvm.bindu"/>
-    </contour>
     <component base="dvA.init"/>
     <component base="dvmAI" xOffset="1119"/>
     <component base="dvmAA" xOffset="849"/>
+    <contour>
+      <point x="1201" y="616" type="move" name="abvm.bindu"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,6 +2,8 @@
 <glyph name="dvS_PHA" format="1">
   <advance width="1157"/>
   <outline>
+    <component base="dvS"/>
+    <component base="dvPHA" xOffset="473"/>
     <contour>
       <point x="793" y="10" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,5 @@
     <contour>
       <point x="885" y="636" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvS"/>
-    <component base="dvPHA" xOffset="473"/>
   </outline>
 </glyph>

@@ -2,13 +2,13 @@
 <glyph name="dvS_DA_mUU" format="1">
   <advance width="906"/>
   <outline>
+    <component base="dvS"/>
+    <component base="dvDA_mUU" xOffset="420"/>
     <contour>
       <point x="848" y="636" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="848" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvS"/>
-    <component base="dvDA_mUU" xOffset="420"/>
   </outline>
 </glyph>
