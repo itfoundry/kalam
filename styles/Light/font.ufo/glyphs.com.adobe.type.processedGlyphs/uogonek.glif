@@ -4,18 +4,27 @@
   <unicode hex="0173" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="331" y="-124" />
-      <point x="315" y="-124" />
-      <point x="301" y="-140" />
-      <point type="curve" x="273" y="-140" />
-      <point x="245" y="-140" />
-      <point x="230" y="-132" />
-      <point type="curve" x="230" y="-117" />
-      <point x="230" y="-62" />
-      <point x="329" y="-31" />
-      <point type="curve" x="329" y="13" />
-      <point x="329" y="20" />
-      <point x="326" y="24" />
+      <point name="hintSet0000" type="line" x="287" y="48" />
+      <point x="241" y="32" />
+      <point x="168" y="-51" />
+      <point type="curve" x="168" y="-104" />
+      <point x="168" y="-141" />
+      <point x="210" y="-170" />
+      <point type="curve" x="250" y="-170" />
+      <point x="288" y="-170" />
+      <point x="346" y="-151" />
+      <point type="curve" x="346" y="-124" />
+      <point x="346" y="-111" />
+      <point x="337" y="-104" />
+      <point type="curve" x="325" y="-104" />
+      <point x="309" y="-104" />
+      <point x="295" y="-120" />
+      <point type="curve" x="267" y="-120" />
+      <point x="239" y="-120" />
+      <point x="224" y="-112" />
+      <point type="curve" x="224" y="-97" />
+      <point x="224" y="-45" />
+      <point x="314" y="-14" />
       <point type="curve" x="322" y="27" />
       <point x="328" y="34" />
       <point x="333" y="45" />
@@ -53,20 +62,6 @@
       <point x="301" y="127" />
       <point x="287" y="73" />
       <point type="curve" x="287" y="50" />
-      <point x="287" y="41" />
-      <point x="289" y="33" />
-      <point type="curve" x="292" y="28" />
-      <point x="246" y="11" />
-      <point x="174" y="-71" />
-      <point type="curve" x="174" y="-124" />
-      <point x="174" y="-161" />
-      <point x="216" y="-190" />
-      <point type="curve" x="256" y="-190" />
-      <point x="294" y="-190" />
-      <point x="352" y="-171" />
-      <point type="curve" x="352" y="-144" />
-      <point x="352" y="-131" />
-      <point x="343" y="-124" />
     </contour>
   </outline>
 </glyph>

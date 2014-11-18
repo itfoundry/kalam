@@ -29,19 +29,6 @@
   dvmAI_Reph
   dvmAI_Reph_Anusvara
   grave
-  dieresis
-  macron
-  acute
-  cedilla
-  circumflex
-  caron
-  macronmod
-  breve
-  dotaccent
-  ring
-  ogonek
-  tilde
-  hungarumlaut
 ];
 
 @mII_BASES = [

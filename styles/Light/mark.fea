@@ -1,70 +1,74 @@
-# Created: Mon Nov 17 19:04:01 2014
+# Created: Tue Nov 18 17:24:48 2014
 # PS Name: Kalam-Light
 # MM Inst: None
 # exported from noApp
 
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
 
-lookup MARK_BASE_cedilla {
-	pos base C <anchor 276 0> mark @MC_cedilla;
-	pos base S <anchor 209 0> mark @MC_cedilla;
-	pos base T <anchor 224 0> mark @MC_cedilla;
-	pos base c <anchor 175 0> mark @MC_cedilla;
-	pos base copyright <anchor 337 152> mark @MC_cedilla;
-	pos base s <anchor 151 -30> mark @MC_cedilla;
-	pos base t <anchor 111 -30> mark @MC_cedilla;
-} MARK_BASE_cedilla;
-
-
-lookup MARK_BASE_ogonek {
-	pos base A <anchor 420 0> mark @MC_ogonek;
-	pos base E <anchor 471 94> mark @MC_ogonek;
-	pos base I <anchor 74 29> mark @MC_ogonek;
-	pos base U <anchor 286 40> mark @MC_ogonek;
-	pos base a <anchor 302 -31> mark @MC_ogonek;
-	pos base ae <anchor 1 0> mark @MC_ogonek;
-	pos base dotlessi <anchor 31 -30> mark @MC_ogonek;
-	pos base e <anchor 244 -8> mark @MC_ogonek;
-	pos base i <anchor 48 -30> mark @MC_ogonek;
-	pos base u <anchor 283 -30> mark @MC_ogonek;
-} MARK_BASE_ogonek;
-
-
 lookup MARK_BASE_top {
-	@bGC_n_top = [n o u];
+	@bGC_A_top = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Abreve Amacron Aogonek];
+	@bGC_C_top = [C Ccedilla Cacute Ccaron];
+	@bGC_D_top = [D Dcaron];
+	@bGC_E_top = [E Egrave Eacute Ecircumflex Edieresis Ecaron Edotaccent Emacron Eogonek];
+	@bGC_G_top = [G Gbreve Gcommaaccent];
+	@bGC_I_top = [I Igrave Iacute Icircumflex Idieresis Idotaccent Imacron Iogonek];
+	@bGC_L_top = [L Lacute Lcaron Lcommaaccent];
+	@bGC_N_top = [N Ntilde Nacute Ncaron Ncommaaccent];
+	@bGC_O_top = [O Ograve Oacute Ocircumflex Otilde Odieresis Ohungarumlaut Omacron];
+	@bGC_R_top = [R Racute Rcaron Rcommaaccent];
+	@bGC_S_top = [S Scaron Sacute];
+	@bGC_Scedilla_top = [Scedilla Scommaaccent];
+	@bGC_T_top = [T Tcaron Tcedilla Tcommaaccent];
+	@bGC_U_top = [U Ugrave Uacute Ucircumflex Udieresis Uhungarumlaut Umacron Uogonek Uring];
+	@bGC_Y_top = [Y Ydieresis Yacute];
+	@bGC_Zcaron_top = [Zcaron Z Zacute Zdotaccent];
+	@bGC_a_top = [a agrave aacute acircumflex atilde adieresis aring abreve amacron aogonek];
+	@bGC_c_top = [c ccedilla cacute ccaron];
+	@bGC_e_top = [e egrave eacute ecircumflex edieresis ecaron edotaccent emacron eogonek];
+	@bGC_g_top = [g gbreve];
+	@bGC_igrave_top = [igrave iacute icircumflex idieresis imacron iogonek];
+	@bGC_n_top = [n o u ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis nacute ncaron ohungarumlaut omacron uhungarumlaut umacron uogonek uring];
+	@bGC_r_top = [r racute rcaron];
+	@bGC_s_top = [s scaron sacute scedilla];
+	@bGC_y_top = [y yacute ydieresis];
+	@bGC_zcaron_top = [zcaron z zacute zdotaccent];
+	pos base @bGC_A_top <anchor 365 683> mark @MC_top;
+	pos base @bGC_C_top <anchor 504 683> mark @MC_top;
+	pos base @bGC_D_top <anchor 445 633> mark @MC_top;
+	pos base @bGC_E_top <anchor 417 683> mark @MC_top;
+	pos base @bGC_G_top <anchor 487 683> mark @MC_top;
+	pos base @bGC_I_top <anchor 247 683> mark @MC_top;
+	pos base @bGC_L_top <anchor 283 683> mark @MC_top;
+	pos base @bGC_N_top <anchor 410 683> mark @MC_top;
+	pos base @bGC_O_top <anchor 455 683> mark @MC_top;
+	pos base @bGC_R_top <anchor 379 683> mark @MC_top;
+	pos base @bGC_S_top <anchor 350 683> mark @MC_top;
+	pos base @bGC_Scedilla_top <anchor 370 683> mark @MC_top;
+	pos base @bGC_T_top <anchor 361 883> mark @MC_top;
+	pos base @bGC_U_top <anchor 354 683> mark @MC_top;
+	pos base @bGC_Y_top <anchor 343 683> mark @MC_top;
+	pos base @bGC_Zcaron_top <anchor 374 683> mark @MC_top;
+	pos base @bGC_a_top <anchor 303 470> mark @MC_top;
+	pos base @bGC_c_top <anchor 270 470> mark @MC_top;
+	pos base @bGC_e_top <anchor 259 470> mark @MC_top;
+	pos base @bGC_g_top <anchor 326 470> mark @MC_top;
+	pos base @bGC_igrave_top <anchor 170 470> mark @MC_top;
 	pos base @bGC_n_top <anchor 287 470> mark @MC_top;
-	pos base A <anchor 365 683> mark @MC_top;
+	pos base @bGC_r_top <anchor 193 470> mark @MC_top;
+	pos base @bGC_s_top <anchor 240 470> mark @MC_top;
+	pos base @bGC_y_top <anchor 276 470> mark @MC_top;
+	pos base @bGC_zcaron_top <anchor 215 470> mark @MC_top;
 	pos base AE <anchor 8 0> mark @MC_top;
-	pos base C <anchor 504 683> mark @MC_top;
-	pos base D <anchor 445 633> mark @MC_top;
-	pos base E <anchor 417 683> mark @MC_top;
+	pos base Dcroat <anchor 450 633> mark @MC_top;
 	pos base Eth <anchor 312 620> mark @MC_top;
-	pos base G <anchor 487 683> mark @MC_top;
-	pos base I <anchor 247 683> mark @MC_top;
-	pos base L <anchor 283 683> mark @MC_top;
 	pos base Lslash <anchor 234 620> mark @MC_top;
-	pos base N <anchor 410 683> mark @MC_top;
-	pos base O <anchor 455 683> mark @MC_top;
-	pos base R <anchor 379 683> mark @MC_top;
-	pos base S <anchor 350 683> mark @MC_top;
-	pos base T <anchor 361 883> mark @MC_top;
-	pos base U <anchor 354 683> mark @MC_top;
-	pos base Y <anchor 343 683> mark @MC_top;
-	pos base Z <anchor 374 683> mark @MC_top;
-	pos base a <anchor 303 470> mark @MC_top;
 	pos base ae <anchor 1 0> mark @MC_top;
-	pos base c <anchor 270 470> mark @MC_top;
 	pos base copyright <anchor 447 533> mark @MC_top;
 	pos base dotlessi <anchor 171 470> mark @MC_top;
-	pos base e <anchor 259 470> mark @MC_top;
-	pos base g <anchor 326 470> mark @MC_top;
 	pos base l <anchor 198 717> mark @MC_top;
+	pos base lacute <anchor 196 717> mark @MC_top;
 	pos base lslash <anchor 258 717> mark @MC_top;
-	pos base r <anchor 193 470> mark @MC_top;
-	pos base registered <anchor 430 518> mark @MC_top;
-	pos base s <anchor 240 470> mark @MC_top;
-	pos base y <anchor 276 470> mark @MC_top;
-	pos base z <anchor 215 470> mark @MC_top;
+	pos base rcommaaccent <anchor 207 470> mark @MC_top;
 } MARK_BASE_top;
 
 

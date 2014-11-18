@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 19:04:48 2014
+# Created: Tue Nov 18 17:25:36 2014
 # PS Name: Kalam-Bold
 # MM Inst: None
 # exported from noApp
@@ -8,18 +8,12 @@
 @mGC_abvm.i_n82_587 = [dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.u_n139_0 = [dvmU dvmUU];
 @mGC_blwm.virama_n139_n10 = [dvmvR dvmvRR dvVirama];
-@mGC_top_0_507 = [macron circumflex caron macronmod breve ring tilde];
-@mGC_top_0_603 = [grave acute dotaccent hungarumlaut];
 
 markClass @mGC_abvm.bindu_n82_662 <anchor -82 662> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n82_672 <anchor -82 672> @MC_abvm.e;
 markClass @mGC_abvm.i_n82_587 <anchor -82 587> @MC_abvm.i;
 markClass @mGC_blwm.u_n139_0 <anchor -139 0> @MC_blwm.u;
 markClass @mGC_blwm.virama_n139_n10 <anchor -139 -10> @MC_blwm.virama;
-markClass @mGC_top_0_507 <anchor 0 507> @MC_top;
-markClass @mGC_top_0_603 <anchor 0 603> @MC_top;
-markClass cedilla <anchor 0 8> @MC_cedilla;
-markClass dieresis <anchor 0 592> @MC_top;
 markClass dvAnusvara.amI <anchor -106 587> @MC_abvm.i;
-markClass ogonek <anchor 0 0> @MC_ogonek;
+markClass grave <anchor 0 603> @MC_top;
 

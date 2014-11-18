@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSOffsetHorizontal</key>
+		<string>-27</string>
+		<key>GSOffsetVertical</key>
+		<string>-9</string>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>6FA4A80C-3D50-4FAF-A835-1EC9F66A3889</string>
 	<key>com.schriftgestaltung.useNiceNames</key>

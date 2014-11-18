@@ -3,7 +3,51 @@
   <advance width="226"/>
   <unicode hex="00EC"/>
   <outline>
-    <component base="dotlessi" xOffset="-1"/>
-    <component base="grave" xOffset="170" yOffset="-96"/>
+    <contour>
+      <point x="170" y="470" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="30" y="-30" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="163" y="502" type="curve" smooth="yes"/>
+      <point x="146" y="502"/>
+      <point x="139" y="476"/>
+      <point x="100" y="308" type="curve" smooth="yes"/>
+      <point x="81" y="227"/>
+      <point x="31" y="71"/>
+      <point x="31" y="49" type="curve" smooth="yes"/>
+      <point x="31" y="31"/>
+      <point x="42" y="17"/>
+      <point x="55" y="17" type="curve" smooth="yes"/>
+      <point x="65" y="17"/>
+      <point x="80" y="31"/>
+      <point x="94" y="73" type="curve" smooth="yes"/>
+      <point x="166" y="300"/>
+      <point x="196" y="432"/>
+      <point x="196" y="462" type="curve" smooth="yes"/>
+      <point x="196" y="480"/>
+      <point x="177" y="502"/>
+    </contour>
+    <contour>
+      <point x="148" y="618" type="curve" smooth="yes"/>
+      <point x="180" y="594"/>
+      <point x="207" y="567"/>
+      <point x="222" y="567" type="curve" smooth="yes"/>
+      <point x="232" y="567"/>
+      <point x="242" y="577"/>
+      <point x="242" y="586" type="curve" smooth="yes"/>
+      <point x="242" y="603"/>
+      <point x="229" y="613"/>
+      <point x="177" y="669" type="curve" smooth="yes"/>
+      <point x="140" y="708"/>
+      <point x="125" y="732"/>
+      <point x="110" y="732" type="curve" smooth="yes"/>
+      <point x="89" y="732"/>
+      <point x="73" y="707"/>
+      <point x="73" y="690" type="curve" smooth="yes"/>
+      <point x="73" y="671"/>
+      <point x="101" y="654"/>
+    </contour>
   </outline>
 </glyph>

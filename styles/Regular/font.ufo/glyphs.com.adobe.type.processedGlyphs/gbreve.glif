@@ -6,15 +6,15 @@
     <contour>
       <point name="hintSet0000" type="curve" x="101" y="136" />
       <point x="101" y="219" />
-      <point x="218" y="428" />
+      <point x="219" y="428" />
       <point type="curve" x="302" y="428" />
       <point x="336" y="428" />
       <point x="342" y="379" />
       <point type="curve" x="348" y="330" />
-      <point x="349" y="317" />
-      <point x="351" y="305" />
-      <point type="curve" x="354" y="296" />
-      <point x="315" y="186" />
+      <point x="350" y="316" />
+      <point x="352" y="305" />
+      <point type="curve" x="354" y="295" />
+      <point x="314" y="186" />
       <point x="202" y="98" />
       <point type="curve" x="140" y="98" />
       <point x="117" y="98" />
@@ -28,11 +28,11 @@
       <point x="412" y="405" />
       <point x="385" y="511" />
       <point type="curve" x="297" y="511" />
-      <point x="160" y="511" />
+      <point x="161" y="511" />
       <point x="20" y="257" />
       <point type="curve" x="20" y="138" />
       <point x="20" y="81" />
-      <point x="76" y="15" />
+      <point x="77" y="15" />
       <point type="curve" x="137" y="15" />
       <point x="172" y="15" />
       <point x="221" y="38" />
@@ -42,12 +42,12 @@
       <point type="curve" x="147" y="-179" />
       <point x="59" y="-179" />
       <point x="45" y="-84" />
-      <point type="curve" x="10" y="-84" />
-      <point x="-4" y="-84" />
+      <point type="curve" x="11" y="-84" />
+      <point x="-3" y="-84" />
       <point x="-19" y="-112" />
       <point type="curve" x="-19" y="-132" />
       <point x="-19" y="-177" />
-      <point x="47" y="-247" />
+      <point x="48" y="-247" />
       <point type="curve" x="149" y="-247" />
       <point x="308" y="-247" />
       <point x="305" y="4" />
@@ -56,12 +56,12 @@
       <point x="423" y="258" />
       <point type="curve" x="423" y="285" />
       <point x="423" y="297" />
-      <point x="418" y="308" />
+      <point x="418" y="309" />
     </contour>
     <contour>
       <point type="curve" x="498" y="696" />
       <point x="464" y="696" />
-      <point x="445" y="635" />
+      <point x="446" y="635" />
       <point type="curve" x="380" y="635" />
       <point x="306" y="635" />
       <point x="311" y="731" />

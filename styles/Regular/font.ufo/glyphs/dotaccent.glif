@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="0"/>
+  <advance width="125"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="0" y="579" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="50" y="663" type="curve" smooth="yes"/>
-      <point x="63" y="663"/>
-      <point x="78" y="678"/>
-      <point x="78" y="687" type="curve" smooth="yes"/>
-      <point x="78" y="713"/>
-      <point x="43" y="794"/>
-      <point x="19" y="794" type="curve" smooth="yes"/>
-      <point x="-3" y="794"/>
-      <point x="-28" y="761"/>
-      <point x="-28" y="738" type="curve" smooth="yes"/>
-      <point x="-28" y="709"/>
-      <point x="22" y="663"/>
+      <point x="88" y="663" type="curve" smooth="yes"/>
+      <point x="100" y="663"/>
+      <point x="115" y="678"/>
+      <point x="115" y="687" type="curve" smooth="yes"/>
+      <point x="115" y="713"/>
+      <point x="81" y="794"/>
+      <point x="57" y="794" type="curve" smooth="yes"/>
+      <point x="35" y="794"/>
+      <point x="10" y="761"/>
+      <point x="10" y="738" type="curve" smooth="yes"/>
+      <point x="10" y="709"/>
+      <point x="59" y="663"/>
     </contour>
   </outline>
 </glyph>

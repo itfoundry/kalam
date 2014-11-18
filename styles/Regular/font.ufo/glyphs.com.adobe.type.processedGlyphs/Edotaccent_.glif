@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="441" y="788" />
-      <point x="454" y="788" />
+      <point x="453" y="788" />
       <point x="469" y="803" />
       <point type="curve" x="469" y="812" />
       <point x="469" y="838" />

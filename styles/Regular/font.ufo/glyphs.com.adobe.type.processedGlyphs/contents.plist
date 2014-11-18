@@ -140,8 +140,6 @@
 	<string>atilde.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
-	<key>backslash</key>
-	<string>backslash.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -1516,6 +1514,8 @@
 	<string>k.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
+	<key>litre</key>
+	<string>litre.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
 	<key>m</key>
@@ -1588,8 +1588,6 @@
 	<string>six.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
-	<key>summation</key>
-	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>tcaron</key>

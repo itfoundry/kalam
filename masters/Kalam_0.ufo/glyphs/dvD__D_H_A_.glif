@@ -3,8 +3,18 @@
   <advance width="618"/>
   <outline>
     <contour>
-      <point x="499" y="407"/>
-      <point x="509" y="366"/>
+      <point x="333" y="-260" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="557" y="636" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="333" y="-250" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="557" y="646" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
       <point x="526" y="366" type="curve" smooth="yes"/>
       <point x="543" y="366"/>
       <point x="547" y="381"/>
@@ -18,10 +28,10 @@
       <point x="548" y="619"/>
       <point x="499" y="539"/>
       <point x="499" y="443" type="curve" smooth="yes"/>
+      <point x="499" y="407"/>
+      <point x="509" y="366"/>
     </contour>
     <contour>
-      <point x="534" y="199"/>
-      <point x="545" y="191"/>
       <point x="545" y="176" type="curve" smooth="yes"/>
       <point x="545" y="126"/>
       <point x="464" y="105"/>
@@ -68,10 +78,10 @@
       <point x="418" y="32"/>
       <point x="456" y="199"/>
       <point x="518" y="199" type="curve" smooth="yes"/>
+      <point x="534" y="199"/>
+      <point x="545" y="191"/>
     </contour>
     <contour>
-      <point x="159" y="41"/>
-      <point x="41" y="-59"/>
       <point x="41" y="-121" type="curve" smooth="yes"/>
       <point x="41" y="-155"/>
       <point x="63" y="-175"/>
@@ -97,6 +107,8 @@
       <point x="203" y="38"/>
       <point x="197" y="41"/>
       <point x="186" y="41" type="curve" smooth="yes"/>
+      <point x="159" y="41"/>
+      <point x="41" y="-59"/>
     </contour>
     <contour>
       <point x="-8" y="69" type="line"/>
@@ -155,18 +167,6 @@
       <point x="-30" y="597"/>
       <point x="-20" y="588"/>
       <point x="17" y="588" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="333" y="-260" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="557" y="636" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="333" y="-250" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="557" y="646" type="move" name="abvm.e"/>
     </contour>
   </outline>
 </glyph>

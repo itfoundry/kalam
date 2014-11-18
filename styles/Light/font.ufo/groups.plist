@@ -26,19 +26,6 @@
 		<string>dvmAI_Reph</string>
 		<string>dvmAI_Reph_Anusvara</string>
 		<string>grave</string>
-		<string>dieresis</string>
-		<string>macron</string>
-		<string>acute</string>
-		<string>cedilla</string>
-		<string>circumflex</string>
-		<string>caron</string>
-		<string>macronmod</string>
-		<string>breve</string>
-		<string>dotaccent</string>
-		<string>ring</string>
-		<string>ogonek</string>
-		<string>tilde</string>
-		<string>hungarumlaut</string>
 	</array>
 	<key>mII_BASES</key>
 	<array>
