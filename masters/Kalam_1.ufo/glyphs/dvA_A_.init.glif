@@ -2,7 +2,7 @@
 <glyph name="dvAA.init" format="1">
   <advance width="1201"/>
   <outline>
-    <component base="dvA.init"/>
-    <component base="dvmAA" xOffset="924"/>
+	<component base="dvA.init"/>
+	<component base="dvmAA" xOffset="924"/>
   </outline>
 </glyph>

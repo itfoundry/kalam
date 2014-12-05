@@ -2,8 +2,8 @@
 <glyph name="dvJx_YA" format="1">
   <advance width="1159"/>
   <outline>
-    <component base="dvJ"/>
-    <component base="dvYA" xOffset="463"/>
-    <component base="dvNukta" xOffset="804" yOffset="55"/>
+	<component base="dvJ"/>
+	<component base="dvYA" xOffset="463"/>
+	<component base="dvNukta" xOffset="804" yOffset="55"/>
   </outline>
 </glyph>

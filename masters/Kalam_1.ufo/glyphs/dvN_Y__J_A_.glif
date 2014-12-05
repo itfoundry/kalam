@@ -2,7 +2,7 @@
 <glyph name="dvNY_JA" format="1">
   <advance width="1301"/>
   <outline>
-    <component base="dvNY"/>
-    <component base="dvJA" xOffset="513"/>
+	<component base="dvNY"/>
+	<component base="dvJA" xOffset="513"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="dvP_PA" format="1">
   <advance width="936"/>
   <outline>
-    <component base="dvP"/>
-    <component base="dvPA" xOffset="316"/>
+	<component base="dvP"/>
+	<component base="dvPA" xOffset="316"/>
   </outline>
 </glyph>

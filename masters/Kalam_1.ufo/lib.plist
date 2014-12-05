@@ -16,7 +16,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>public.glyphOrder</key>
@@ -1025,13 +1025,13 @@
 		<string>NULL</string>
 		<string>CR</string>
 		<string>zerowidthspace</string>
-		<string>dvmOcandra_Anusvara</string>
 		<string>.notdef</string>
 		<string>ruble</string>
 		<string>rupee</string>
 		<string>estimated</string>
 		<string>dvmvL</string>
 		<string>dvmvLL</string>
+		<string>dvmOcandra_Anusvara</string>
 		<string>dvmEcandra_Anusvara</string>
 		<string>dvL_RA</string>
 		<string>dvSS_RA</string>

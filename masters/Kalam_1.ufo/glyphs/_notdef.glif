@@ -2,17 +2,17 @@
 <glyph name=".notdef" format="1">
   <advance width="756"/>
   <outline>
-    <contour>
-      <point x="160" y="0" type="line"/>
-      <point x="596" y="0" type="line"/>
-      <point x="596" y="701" type="line"/>
-      <point x="160" y="701" type="line"/>
-    </contour>
-    <contour>
-      <point x="241" y="625" type="line"/>
-      <point x="516" y="625" type="line"/>
-      <point x="516" y="76" type="line"/>
-      <point x="241" y="76" type="line"/>
-    </contour>
+	<contour>
+	  <point x="160" y="0" type="line"/>
+	  <point x="596" y="0" type="line"/>
+	  <point x="596" y="701" type="line"/>
+	  <point x="160" y="701" type="line"/>
+	</contour>
+	<contour>
+	  <point x="241" y="625" type="line"/>
+	  <point x="516" y="625" type="line"/>
+	  <point x="516" y="76" type="line"/>
+	  <point x="241" y="76" type="line"/>
+	</contour>
   </outline>
 </glyph>

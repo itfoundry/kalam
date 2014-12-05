@@ -2,8 +2,8 @@
 <glyph name="dvmO_Reph_Anusvara" format="1">
   <advance width="287"/>
   <outline>
-    <component base="dvmAA"/>
-    <component base="dvAnusvara" xOffset="376" yOffset="167" xScale="0.718" yScale="0.718"/>
-    <component base="dvmE_Reph" xOffset="284"/>
+	<component base="dvmAA"/>
+	<component base="dvAnusvara" xOffset="376" yOffset="167" xScale="0.718" yScale="0.718"/>
+	<component base="dvmE_Reph" xOffset="284"/>
   </outline>
 </glyph>

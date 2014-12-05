@@ -2,7 +2,7 @@
 <glyph name="dvJx" format="1">
   <advance width="539"/>
   <outline>
-    <component base="dvJ"/>
-    <component base="dvNukta" xOffset="804" yOffset="55"/>
+	<component base="dvJ"/>
+	<component base="dvNukta" xOffset="804" yOffset="55"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="dvM_LA" format="1">
   <advance width="1221"/>
   <outline>
-    <component base="dvM"/>
-    <component base="dvLA" xOffset="442"/>
+	<component base="dvM"/>
+	<component base="dvLA" xOffset="442"/>
   </outline>
 </glyph>

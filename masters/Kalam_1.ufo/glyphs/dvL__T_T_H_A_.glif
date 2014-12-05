@@ -2,19 +2,19 @@
 <glyph name="dvL_TTHA" format="1">
   <advance width="1059"/>
   <outline>
-    <component base="dvL"/>
-    <component base="dvTTHA" xOffset="466"/>
-    <contour>
-      <point x="744" y="0" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="893" y="662" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="744" y="-10" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="899" y="672" type="move" name="abvm.e"/>
-    </contour>
+	<component base="dvL"/>
+	<component base="dvTTHA" xOffset="466"/>
+	<contour>
+	  <point x="744" y="0" type="move" name="blwm.virama"/>
+	</contour>
+	<contour>
+	  <point x="893" y="662" type="move" name="abvm.bindu"/>
+	</contour>
+	<contour>
+	  <point x="744" y="-10" type="move" name="blwm.u"/>
+	</contour>
+	<contour>
+	  <point x="899" y="672" type="move" name="abvm.e"/>
+	</contour>
   </outline>
 </glyph>

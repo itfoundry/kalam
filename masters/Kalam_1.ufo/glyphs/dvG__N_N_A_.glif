@@ -2,7 +2,7 @@
 <glyph name="dvG_NNA" format="1">
   <advance width="1121"/>
   <outline>
-    <component base="dvNNA" xOffset="427"/>
-    <component base="dvG"/>
+	<component base="dvNNA" xOffset="427"/>
+	<component base="dvG"/>
   </outline>
 </glyph>

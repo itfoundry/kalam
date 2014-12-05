@@ -2,7 +2,7 @@
 <glyph name="dvB_BHA" format="1">
   <advance width="1100"/>
   <outline>
-    <component base="dvB"/>
-    <component base="dvBHA" xOffset="402"/>
+	<component base="dvB"/>
+	<component base="dvBHA" xOffset="402"/>
   </outline>
 </glyph>

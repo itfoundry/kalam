@@ -2,19 +2,19 @@
 <glyph name="dvNN_TTA" format="1">
   <advance width="1122"/>
   <outline>
-    <component base="dvNN"/>
-    <component base="dvTTA" xOffset="499"/>
-    <contour>
-      <point x="810" y="0" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="980" y="662" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="869" y="-10" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="999" y="672" type="move" name="abvm.e"/>
-    </contour>
+	<component base="dvNN"/>
+	<component base="dvTTA" xOffset="499"/>
+	<contour>
+	  <point x="810" y="0" type="move" name="blwm.virama"/>
+	</contour>
+	<contour>
+	  <point x="980" y="662" type="move" name="abvm.bindu"/>
+	</contour>
+	<contour>
+	  <point x="869" y="-10" type="move" name="blwm.u"/>
+	</contour>
+	<contour>
+	  <point x="999" y="672" type="move" name="abvm.e"/>
+	</contour>
   </outline>
 </glyph>

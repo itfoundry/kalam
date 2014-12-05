@@ -2,8 +2,8 @@
 <glyph name="dvmO_Anusvara" format="1">
   <advance width="289"/>
   <outline>
-    <component base="dvmE" xOffset="284"/>
-    <component base="dvmAA"/>
-    <component base="dvAnusvara" xOffset="412"/>
+	<component base="dvmE" xOffset="284"/>
+	<component base="dvmAA"/>
+	<component base="dvAnusvara" xOffset="412"/>
   </outline>
 </glyph>

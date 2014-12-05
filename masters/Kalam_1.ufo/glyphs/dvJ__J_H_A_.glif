@@ -2,7 +2,7 @@
 <glyph name="dvJ_JHA" format="1">
   <advance width="1397"/>
   <outline>
-    <component base="dvJ"/>
-    <component base="dvJHA" xOffset="516"/>
+	<component base="dvJ"/>
+	<component base="dvJHA" xOffset="516"/>
   </outline>
 </glyph>

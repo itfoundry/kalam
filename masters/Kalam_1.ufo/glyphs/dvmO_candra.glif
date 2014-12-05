@@ -2,7 +2,7 @@
 <glyph name="dvmOcandra" format="1">
   <advance width="289"/>
   <outline>
-    <component base="dvmEcandra" xOffset="234"/>
-    <component base="dvmAA"/>
+	<component base="dvmEcandra" xOffset="234"/>
+	<component base="dvmAA"/>
   </outline>
 </glyph>

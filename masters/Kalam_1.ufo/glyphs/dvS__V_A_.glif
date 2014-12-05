@@ -2,7 +2,7 @@
 <glyph name="dvS_VA" format="1">
   <advance width="1119"/>
   <outline>
-    <component base="dvS"/>
-    <component base="dvVA" xOffset="530"/>
+	<component base="dvS"/>
+	<component base="dvVA" xOffset="530"/>
   </outline>
 </glyph>

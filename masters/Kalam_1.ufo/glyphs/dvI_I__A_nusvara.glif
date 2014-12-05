@@ -2,7 +2,7 @@
 <glyph name="dvII_Anusvara" format="1">
   <advance width="562"/>
   <outline>
-    <component base="dvII"/>
-    <component base="dvAnusvara" xOffset="607" yOffset="106" xScale="0.786" yScale="0.788"/>
+	<component base="dvII"/>
+	<component base="dvAnusvara" xOffset="607" yOffset="106" xScale="0.786" yScale="0.788"/>
   </outline>
 </glyph>

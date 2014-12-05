@@ -2,7 +2,7 @@
 <glyph name="dvSS_NNA" format="1">
   <advance width="1133"/>
   <outline>
-    <component base="dvSS"/>
-    <component base="dvNNA" xOffset="430"/>
+	<component base="dvSS"/>
+	<component base="dvNNA" xOffset="430"/>
   </outline>
 </glyph>

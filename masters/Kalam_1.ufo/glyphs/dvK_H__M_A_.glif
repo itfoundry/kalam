@@ -2,7 +2,7 @@
 <glyph name="dvKH_MA" format="1">
   <advance width="1326"/>
   <outline>
-    <component base="dvKH"/>
-    <component base="dvMA" xOffset="645"/>
+	<component base="dvKH"/>
+	<component base="dvMA" xOffset="645"/>
   </outline>
 </glyph>

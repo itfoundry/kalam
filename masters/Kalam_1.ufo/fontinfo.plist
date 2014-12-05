@@ -19,7 +19,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Kalam</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>50</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>2</integer>

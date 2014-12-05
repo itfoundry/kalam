@@ -2,19 +2,19 @@
 <glyph name="dvSH_KA" format="1">
   <advance width="1299"/>
   <outline>
-    <component base="dvSH"/>
-    <component base="dvKA" xOffset="505"/>
-    <contour>
-      <point x="886" y="0" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="961" y="662" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="885" y="-10" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="962" y="672" type="move" name="abvm.e"/>
-    </contour>
+	<component base="dvSH"/>
+	<component base="dvKA" xOffset="505"/>
+	<contour>
+	  <point x="886" y="0" type="move" name="blwm.virama"/>
+	</contour>
+	<contour>
+	  <point x="961" y="662" type="move" name="abvm.bindu"/>
+	</contour>
+	<contour>
+	  <point x="885" y="-10" type="move" name="blwm.u"/>
+	</contour>
+	<contour>
+	  <point x="962" y="672" type="move" name="abvm.e"/>
+	</contour>
   </outline>
 </glyph>

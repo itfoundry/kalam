@@ -2,7 +2,7 @@
 <glyph name="dvSH_YA" format="1">
   <advance width="1232"/>
   <outline>
-    <component base="dvSH"/>
-    <component base="dvYA" xOffset="536"/>
+	<component base="dvSH"/>
+	<component base="dvYA" xOffset="536"/>
   </outline>
 </glyph>
